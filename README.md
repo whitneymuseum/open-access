@@ -36,6 +36,6 @@ Whenever you transform, translate or otherwise modify the dataset, you must make
 
 ### Thanks
 
-Thank you to [Cooper-Hewitt](http://www.cooperhewitt.org/), [Europeana](http://www.europeana.eu/), [The Metropolitan Museum of Art](https://www.metmuseum.org/), and [The Museum of Modern Art](http://www.moma.org/) for providing models for these guidelines.
+Thank you to [Cooper-Hewitt](http://www.cooperhewitt.org/), [Europeana](http://www.europeana.eu/), [The Metropolitan Museum of Art](https://www.metmuseum.org/), [The Museum of Modern Art](http://www.moma.org/), and others for providing models for these guidelines.
 
 For more information about the Museum’s digital efforts, follow along on our [blog](https://medium.com/whitney-digital).
