@@ -1,6 +1,6 @@
 # Whitney Museum of American Art | Open Access
 
-As the preeminent institution devoted to the art of the United States, the Whitney Museum of American Art presents the full range of twentieth-century and contemporary American art, with a special focus on works by living artists. The Whitney is dedicated to collecting, preserving, interpreting, and exhibiting American art, and its collection—arguably the finest holdings of twentieth-century American art in the world—is the Museum's key resource.
+As the preeminent institution devoted to the art of the United States, the [Whitney Museum of American Art](https://whitney.org) presents the full range of twentieth-century and contemporary American art, with a special focus on works by living artists. The Whitney is dedicated to collecting, preserving, interpreting, and exhibiting American art, and its collection—arguably the finest holdings of twentieth-century American art in the world—is the Museum's key resource.
 
 The Whitney’s [collection](https://whitney.org/collection) includes over 25,000 works created by more than 3,600 artists in the United States during the twentieth and twenty-first centuries. The datasets in this repository reflect those works and artists that have been catalogued and publicly released on the Museum’s website.
 
