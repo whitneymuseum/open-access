@@ -68,7 +68,6 @@ id,display_name,birth_date,death_date
 8182,Linda Anderson,0,0
 8191,Walter Anderson,1903,1965
 7341,Joe Andoe,1955,0
-8918,Edna Andrade,1917,2008
 21,Carl Andre,1935,0
 22,Milet Andrejevic,1925,1989
 8984,Benny Andrews,1930,2006
@@ -218,7 +217,7 @@ id,display_name,birth_date,death_date
 1401,Stow Wengenroth,1906,1978
 1403,Nat Werner,1907,1991
 1404,Anita Weschler,1903,0
-3809,John Wesley,1928,0
+3809,John Wesley,1928,2022
 1405,Tom Wesselmann,1931,2004
 1406,H.C. Westermann,1922,1981
 5060,Stephen Westfall,1953,0
@@ -413,7 +412,7 @@ id,display_name,birth_date,death_date
 1324,Gerald Thayer,1883,1939
 3508,Paul Thek,1933,1988
 2645,Robert Therrien,1947,2019
-1325,Wayne Thiebaud,1920,0
+1325,Wayne Thiebaud,1920,2021
 1326,Alma Thomas,1891,1978
 11868,Mickalene Thomas,1971,0
 1327,Bob Thompson,1937,1966
@@ -573,7 +572,7 @@ id,display_name,birth_date,death_date
 2661,Sean Scully,1945,0
 1194,Stephanie Scuris,1931,0
 4822,Glen Seator,1959,2002
-1195,James L. Seawright,1936,0
+1195,James L. Seawright,1936,2022
 3967,Carole Seborovski,1960,0
 1196,George Segal,1924,2000
 1197,Doris Seidler,1912,2010
@@ -1338,7 +1337,7 @@ id,display_name,birth_date,death_date
 9252,Cameron Martin,1970,0
 14458,Daria Martin,1973,0
 847,Ezio Martinelli,1913,1981
-10344,Alfred Martinez,1944,0
+10344,Alfred Martinez,1944,2021
 11227,Daniel Joseph Martinez,1957,0
 843,Fletcher Martin,1904,1979
 844,Fred Martin,1927,0
@@ -2066,7 +2065,7 @@ id,display_name,birth_date,death_date
 3898,Emmet Gowin,1941,0
 12720,V. Bianca Grace,0,0
 513,Charles Grafly,1862,1929
-3785,Dan Graham,1942,0
+3785,Dan Graham,1942,2022
 514,Ellwood Graham,1911,2007
 12567,Gloria Graham,1940,0
 515,John D. Graham,1886,1961
@@ -3114,7 +3113,7 @@ id,display_name,birth_date,death_date
 10152,Adriane Herman,1966,0
 4042,Anthony Hernandez,1947,0
 7735,Arturo Herrera,1959,0
-15319,Carmen Herrera,0,0
+15319,Carmen Herrera,1915,2022
 599,George Herriman,1878,1944
 4762,Oliver Herring,1964,0
 13639,Werner Herzog,1942,0
@@ -3709,3 +3708,4 @@ id,display_name,birth_date,death_date
 20323,Barbara Rossi,1940,0
 19216,Eddie Arroyo,1976,0
 20245,Mequitta Ahuja,1976,0
+20310,Harry Shigeta,1887,1963
