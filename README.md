@@ -2,7 +2,7 @@
 
 As the preeminent institution devoted to the art of the United States, the [Whitney Museum of American Art](https://whitney.org) presents the full range of twentieth-century and contemporary American art, with a special focus on works by living artists. The Whitney is dedicated to collecting, preserving, interpreting, and exhibiting American art, and its collection—arguably the finest holdings of twentieth-century American art in the world—is the Museum's key resource.
 
-The Whitney’s [collection](https://whitney.org/collection) includes over 26,000 works created by more than 3,700 artists in the United States during the twentieth and twenty-first centuries. The datasets in this repository reflect those works and artists that have been catalogued and publicly released on the Museum’s website.
+The Whitney’s [collection](https://whitney.org/collection) includes over 26,000 works created by more than 3,800 artists in the United States during the twentieth and twenty-first centuries. The datasets in this repository reflect those works and artists that have been catalogued and publicly released on the Museum’s website.
 
 At this time, the datasets are available in CSV format, encoded in UTF-8. While UTF-8 is the standard for multilingual character encodings, it may not be correctly interpreted by Excel on a Mac. Users of Excel on a Mac can convert the UTF-8 to UTF-16 so the file can be imported correctly.
 
