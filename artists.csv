@@ -3420,7 +3420,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17730,,,Cauleen Smith,0,0
 17819,500462314,,Ming Smith,1950,0
 17731,,,Maya Stovall,0,0
-17566,,,Ben Thorp Brown,1983,0
+17566,,Q125543435,Ben Thorp Brown,1983,0
 18291,500037124,Q13560709,Mary Ann Unger,1945,1998
 18199,,Q23417143,Addie Wagenknecht,1981,0
 18063,,Q107703794,Jeff Whetstone,1968,0
@@ -3964,3 +3964,4 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20933,500404209,Q24844389,Dorothy Antoinette LaSelle,1901,2002
 20941,,,Mark Wilson,1943,0
 20942,,Q7362232,Roman Verostko,1929,0
+20319,,,Luis Jiménez,0,0
