@@ -736,7 +736,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3869,500060537,Q2731236,Nancy Spero,1926,2009
 1261,,,Edwin E. Sponsler,1907,0
 1262,500030288,Q18507993,Carl Sprinchorn,1887,1971
-14911,,Q6896685,Molly Springfield,1977,0
+14911,500707164,Q6896685,Molly Springfield,1977,0
 1263,500055755,Q4890595,Benton Murdoch Spruance,1904,1967
 1264,,,Everett Spruce,1907,2002
 1265,,,Robert Squeri,1923,0
@@ -766,7 +766,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7734,500022058,Q3418301,Ralph Steiner,1899,1986
 7825,,Q55219826,Mark Steinmetz,1961,0
 1279,,,Pat Steir,1940,0
-1280,500020533,Q375268,Frank Stella,1936,0
+1280,500020533,Q375268,Frank Stella,1936,2024
 1281,500032250,Q1347418,Joseph Stella,1877,1946
 3494,500018067,Q20859502,Gary Stephan,1942,0
 1282,,,Leo Steppat,1910,1965
@@ -3590,7 +3590,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17230,500114910,Q706475,Steve McQueen,1969,0
 19344,,,Ariel Goldberg,0,0
 14992,,,A.L. Steiner,0,0
-19527,,,Danielle Dean,1982,0
+19527,,Q28748014,Danielle Dean,1982,0
 18809,,Q111490819,WangShui,1986,0
 18092,,Q107539990,Margaret French,1906,1998
 19619,,Q28132547,Zach Blas,1981,0
