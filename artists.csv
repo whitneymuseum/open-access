@@ -1117,7 +1117,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1044,,,David Porter,1912,2005
 4793,500007426,,Eliot Porter,1901,1990
 1045,500032358,Q5430337,Fairfield Porter,1907,1975
-1046,500006389,Q19276859,Katherine Porter,1941,0
+1046,500006389,Q19276859,Katherine Porter,1941,2024
 11303,500116707,Q528501,Liliana Porter,1941,0
 1047,500018154,Q870701,Richard Pousette-Dart,1916,1992
 1049,,,Mary S. Powers,1885,1959
@@ -1136,7 +1136,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1057,,Q94697636,Easton Pribble,1917,2003
 5051,,Q63090712,Joan Webster Price,1931,0
 1058,500026883,Q6390606,Kenneth Price,1935,2012
-7953,,Q7456580,Seth Price,1973,0
+7953,500294290,Q7456580,Seth Price,1973,0
 5239,500329962,Q18390979,Monique Prieto,1962,0
 7342,500073908,Q1682539,Stephen Prina,1954,0
 3382,,Q661520,Richard Prince,1949,0
@@ -1609,7 +1609,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 762,500030304,Q3431662,Rico Lebrun,1900,1964
 4432,500124631,Q5080122,Charles LeDray,1960,0
 763,500011472,Q4799476,Arthur Lee,1881,1961
-4666,,Q77324819,Colin Loy Lee,1953,0
+4666,500353405,Q77324819,Colin Loy Lee,1953,0
 9180,500379415,Q30122582,Jungjin Lee,1961,0
 7570,,,Dr. Matthew H.M. Lee,1931,2011
 11266,500639407,,Daniel Lefcourt,1975,0
