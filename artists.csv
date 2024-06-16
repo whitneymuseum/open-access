@@ -1149,7 +1149,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1061,500017650,Q16016249,Noah Purifoy,1917,2004
 2637,500009936,Q6776418,Martin Puryear,1941,0
 11237,500294291,Q119789221,Adam Putnam,1973,0
-8796,,Q6271413,Jon Pylypchuk,1972,0
+8796,500333202,Q6271413,Jon Pylypchuk,1972,0
 12576,500333678,,Daniel Oates,1964,0
 16776,500294074,Q5102560,Chiura Obata,1885,1975
 5049,,Q22002909,Mary McLean Obering,1937,2022
@@ -1161,7 +1161,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11337,,Q16214113,John O'Connor,1972,0
 9023,,,Thomas O'Connor,0,0
 12757,,Q73938242,Shaun O'Dell,1968,0
-17270,,Q7830609,Toyin Ojih Odutola,1985,0
+17270,500463706,Q7830609,Toyin Ojih Odutola,1985,0
 8000,500016887,Q2194579,Doug Ohlson,1936,2010
 960,500010933,Q1279374,Kenzo Okada,1902,1982
 961,500015067,Q4799870,Arthur Okamura,1932,2009
@@ -1851,7 +1851,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 12649,500122680,Q7677988,Takehisa Kosugi,1938,0
 721,500115645,Q313113,Joseph Kosuth,1945,0
 5381,500005798,Q6297552,Joyce Kozloff,1942,0
-4850,,Q42160018,Daniel Kramer,1932,0
+4850,500383340,Q42160018,Daniel Kramer,1932,0
 722,500010144,Q237959,Lee Krasner,1908,1984
 5230,,,Peter Krasnow,1887,1979
 723,500100695,Q50379289,Henry Kreis,1899,1963
@@ -2670,7 +2670,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 304,500034605,Q2249205,Francis Criss,1901,1973
 3468,500672056,Q63012562,Susan Crocker,1940,0
 4874,,Q7693108,Ted Croner,1922,2005
-17208,,Q21284874,Njideka Akunyili Crosby,1983,0
+17208,500355604,Q21284874,Njideka Akunyili Crosby,1983,0
 10922,500121145,Q7381442,Russell Crotty,1956,0
 4595,,Q52150914,Stephen Csoka,1897,1989
 305,,Q21481382,Charles Culver,1908,1967
@@ -2791,7 +2791,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 98,500038228,Q21994030,Ben Benn,1884,1983
 11861,500114576,Q448193,Sadie Benning,1973,0
 99,500015060,Q64532757,Tom Benrimo,1887,1958
-4581,,Q956055,Frank W. Benson,1862,1951
+4581,500026137,Q956055,Frank W. Benson,1862,1951
 100,500021940,Q517833,Fletcher Benton,1931,0
 101,500005998,Q471764,Thomas Hart Benton,1889,1975
 11725,500485311,Q7681934,Tamy Ben-Tor,1975,0
@@ -2974,7 +2974,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8188,500064389,Q4899487,Beverly Buchanan,1940,2015
 192,500082476,Q112258751,Howard Buchwald,1943,0
 13741,500043618,,John Buck,1946,0
-13724,,Q77348588,Robert Buck,1959,0
+13724,500684578,Q77348588,Robert Buck,1959,0
 193,,Q21993966,David Budd,1927,1991
 8988,,Q63014422,Alice Standish Buell,1892,1960
 194,500043999,Q21994028,Audrey Buller,1902,1984
@@ -3017,7 +3017,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7575,500330182,,Jon Haddock,1960,0
 550,500056031,Q16017415,Dimitri Hadzi,1921,2006
 10248,500346990,Q16215807,Karl Haendel,1976,0
-551,,Q21550236,Carol Haerer,1933,2002
+551,500073617,Q21550236,Carol Haerer,1933,2002
 552,,,Raoul Hague,1903,1995
 553,,Q7342088,Robert Beverly Hale,1901,1985
 554,,Q22002393,Carl Hall,1921,1996
