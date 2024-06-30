@@ -1594,7 +1594,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4623,,Q100249806,Alice D. Laughlin,1895,1952
 9423,,,Laumont Editions,0,0
 8976,,,Laura McPhee and Virginia Beahan,1986,2000
-758,500049308,,Robert Laurent,1890,1970
+758,500049308,Q7346738,Robert Laurent,1890,1970
 11299,500034977,Q21995275,Rex Lau,1947,0
 4043,500088762,Q539270,Louise Lawler,1947,0
 759,500027690,Q355566,Jacob Lawrence,1917,2000
@@ -3565,7 +3565,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19210,,Q28858888,Devin Kenny,1987,0
 19342,500490413,Q58836589,Jonathan Lyndon Chase,1989,0
 19102,500017267,Q3368741,Pati Hill,1921,2014
-19451,,,George Dunbar,1927,0
+19451,,,George Dunbar,1927,2024
 19324,,Q119518469,ektor garcia,1985,0
 19442,500355649,Q16213503,Ellen Lesperance,1971,0
 19429,,Q28600787,John Wilson,1922,2015
