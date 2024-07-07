@@ -332,7 +332,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1361,500106989,Q5244152,DeWain Valentine,1936,0
 5457,500027633,Q6144584,James Valerio,1938,0
 11263,500356221,Q16731416,Lesley Vance,1977,0
-7463,,Q125423985,Anton van Dalen,1938,0
+7463,,Q23928014,Anton van Dalen,1938,2024
 10964,500473139,Q16216145,Sara VanDerBeek,1976,0
 9687,500071429,Q7597939,Stan VanDerBeek,1927,1984
 7450,500032481,Q3161458,James Van Der Zee,1886,1983
@@ -1530,7 +1530,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 926,500001212,Q6149574,Jan Müller,1922,1958
 10098,500460305,Q55219448,Karin Apollonia Müller,1963,0
 4387,500115023,Q13539263,Matt Mullican,1951,0
-9463,500121152,Q575795,Martin Mull,1943,0
+9463,500121152,Q575795,Martin Mull,1943,2024
 8276,,,Colleen Mulrenan,0,0
 5234,500114657,Q1288454,Vik Muniz,1961,0
 5048,500109023,Q77324910,Hiroshi Murata,1941,0
@@ -1603,7 +1603,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9427,500465735,,Elizabeth [Grandma] Layton,1909,1993
 761,500040992,,Pietro Lazzari,1898,1979
 3584,500026452,Q4924866,Blanche Lazzell,1878,1956
-5021,500029068,Q21293000,June Leaf,1929,0
+5021,500029068,Q21293000,June Leaf,1929,2024
 9860,500462310,Q10733112,An-My Lê,1960,0
 13860,,Q16105677,William Leavitt,1941,0
 762,500030304,Q3431662,Rico Lebrun,1900,1964
@@ -2182,7 +2182,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11115,,Q43130269,Grancel Fitz,1894,1963
 8792,500376294,,George Fitzpatrick,1942,0
 7379,500331982,Q7822347,Tony FitzPatrick,1958,0
-436,500025614,Q537578,Audrey Flack,1931,0
+436,500025614,Q537578,Audrey Flack,1931,2024
 437,500028475,Q6233387,John B. Flannagan,1895,1942
 438,500021736,Q504395,Dan Flavin,1933,1996
 16963,500530343,Q30118144,Jacques Flechemuller,1945,0
@@ -3828,7 +3828,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20791,,Q103849821,Cliff Joseph,1922,2020
 20836,,,Genesis Báez,0,0
 20614,,,Armig Santos,1995,0
-20905,,,Lauren Lee McCarthy,1984,0
+20905,,,Lauren Lee McCarthy,1987,0
 20876,,,Jenny Calivas,0,0
 20471,,,Yiyo Tirado Rivera,1990,0
 20605,,Q123173976,Danielle De Jesus,1987,0
