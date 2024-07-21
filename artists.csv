@@ -342,7 +342,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1366,500051111,Q21786214,Dorothy Varian,1895,1985
 1367,,,Nicholas Vasilieff,1892,1970
 1368,500469759,Q77348290,Gene Vass,1922,1996
-11188,,Q604546,Ben Vautier,1935,2024
+11188,500011704,Q604546,Ben Vautier,1935,2024
 7502,,Q63069065,Liena Vayzman,1971,0
 4644,,,Anthony Velonis,1911,1998
 13385,,,Conrad Ventur,1977,0
@@ -356,7 +356,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1371,500350807,Q16081798,Carlos Villa,1936,2013
 14105,500127962,Q21262103,William Villalongo,1975,0
 1372,500061066,Q107064513,Frank Lincoln Viner,1937,0
-4421,500092205,Q437616,Bill Viola,1951,0
+4421,500092205,Q437616,Bill Viola,1951,2024
 9242,,Q4856501,Banks Violette,1973,0
 1373,,Q55418973,Martha Visser't Hooft,1906,0
 7883,,Q7610760,Stephen Vitiello,1964,0
@@ -754,7 +754,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1273,,Q99541346,Alexander R. Stavenitz,1901,1960
 1274,,Q5065510,Cesare Stea,1893,1960
 4244,500332014,,Hugh Steers,1963,1995
-1275,,Q6212501,Joseph Stefanelli,1921,0
+1275,500092772,Q6212501,Joseph Stefanelli,1921,0
 4642,500055724,Q52157162,Bernard Joseph Steffen,1907,1980
 1276,500000431,Q313899,Edward Steichen,1879,1973
 1277,,Q40751441,Harwood Steiger,1900,1980
@@ -2164,7 +2164,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 427,,Q4484242,Tully Filmus,1903,1998
 428,,Q97015554,Keith Finch,1920,2000
 9274,500122444,Q7576048,Spencer Finch,1962,0
-429,,Q27908357,Lois Fine,1931,0
+429,,Q27908357,Lois Fine,1931,2024
 430,,Q7169132,Perle Fine,1905,1988
 431,500530329,,Don Fink,1923,2010
 4015,500059582,Q6490307,Larry Fink,1941,2023
@@ -3178,7 +3178,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10699,,,Sedrick Huckaby III,1975,0
 7689,,,Thomas Huck,1971,0
 627,,,Gary Hudson,1936,2009
-637,500056055,Q4494583,Robert Hudson,1938,0
+637,500056055,Q4494583,Robert Hudson,1938,2024
 10877,500001196,Q248070,Douglas Huebler,1924,1997
 628,500122117,Q28871580,Manuel Hughes,1938,0
 3952,500001826,Q2075836,Peter Hujar,1934,1987
@@ -3788,7 +3788,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 14239,500116040,Q6251417,John Outterbridge,1933,2020
 20204,,Q28860587,Jordan Casteel,1989,0
 20660,500034124,Q23614342,Rebecca Salsbury James,1891,1968
-20002,,Q20631016,Awol Erizku,1988,0
+20002,500781073,Q20631016,Awol Erizku,1988,0
 18975,,Q63117856,Daniel Lind-Ramos,1953,0
 19044,500473097,Q4963096,Brian Belott,1973,0
 20690,,Q112208957,James Phillips,1945,0
@@ -3972,7 +3972,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21296,,,Toshiko Uchima,1918,2000
 20618,,,Garvin Sierra Vega,1977,0
 20287,,,Miyoko Ito,0,0
-21212,,,Oscar yi Hou,1998,0
+21212,,Q127328513,Oscar yi Hou,1998,0
 21229,,,Carrie Yamaoka,0,0
 21230,,,Reynaldo Rivera,0,0
 21231,,,Carla Williams,0,0
