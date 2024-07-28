@@ -894,7 +894,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 13757,500334019,Q5239101,David Robbins,1957,0
 1101,500084473,Q7823276,Tony Robbin,1943,0
 5372,,Q23979523,Liisa Roberts,1969,0
-5019,,,Abby Robinson,0,0
+5019,,,Abby Robinson,0,2024
 1103,500010640,Q4395132,Boardman Robinson,1876,1952
 8637,500122615,Q5222866,Dario Robleto,1972,0
 1105,500009145,Q20859488,Hugo Robus,1885,1964
@@ -1356,7 +1356,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 851,500338211,Q6818201,Mercedes Matter,1913,2001
 852,,Q21938049,Henry Mattson,1887,1971
 853,500016408,Q6149475,Jan Matulka,1890,1972
-16804,,Q15450997,Cynthia Maughan,1949,0
+16804,500122339,Q15450997,Cynthia Maughan,1949,0
 16935,500474058,Q77348446,Lionel Maunz,1976,0
 854,500025666,Q1387251,Alfred Henry Maurer,1868,1932
 13679,,Q55219364,Nick Mauss,1980,0
@@ -2395,7 +2395,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10810,,,Nicholas Di Genova,1981,0
 359,500009551,Q827021,Burgoyne Diller,1906,1965
 4183,500330492,Q6530475,Lesley Dill,1950,0
-360,,Q21785196,Dominick Di Meo,1927,0
+360,,Q21785196,Dominick Di Meo,1927,2024
 361,500028463,Q531234,Jim Dine,1935,0
 9638,500114622,Q13560680,Kim Dingle,1951,0
 362,500048009,Q5677134,Harvey Dinnerstein,1928,0
@@ -2648,7 +2648,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 12592,,,Keith Cottingham,1958,0
 296,,Q1355414,Robert Cottingham,1935,0
 8993,500469142,Q6111846,Jack Coughlin,1932,0
-4593,,Q107664272,Mary J. Coulter,1880,1966
+4593,500116943,Q107664272,Mary J. Coulter,1880,1966
 5018,500483652,,Marianne Courville,1965,0
 14785,500122721,Q1709505,Miguel Covarrubias,1904,1957
 297,500026304,Q1230046,John Covert,1882,1960
@@ -2708,9 +2708,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 50,500008272,Q16091387,William Bailey,1930,2020
 51,500465604,Q20860856,Eugenie Baizerman,1899,1949
 52,500042485,Q4081183,Saul Baizerman,1889,1957
-53,,Q41403071,George Baker,1931,1997
+53,500025657,Q41403071,George Baker,1931,1997
 9734,500342893,Q1789285,Kristin Baker,1975,0
-4580,,Q84552560,Lamar Baker,1908,1994
+4580,500042501,Q84552560,Lamar Baker,1908,1994
 54,500082131,Q15461228,Jozef G. Bakos,1891,1977
 55,500098854,Q683378,John Baldessari,1931,2020
 12902,500471697,Q55217971,Glen Baldridge,1977,0
