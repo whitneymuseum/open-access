@@ -279,7 +279,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1437,500018039,Q2396391,James Wines,1932,0
 3489,500014550,Q121903,Garry Winogrand,1928,1984
 7730,500087511,Q55219999,Neil Winokur,1945,0
-1438,500077642,Q6120232,Jackie Winsor,1941,0
+1438,500077642,Q6120232,Jackie Winsor,1941,2024
 1439,,Q104231158,Joseph Winter,1921,0
 4645,,Q21757749,Denny E. Winters,1907,1985
 3459,500097929,Q16145906,Robin Winters,1950,0
@@ -824,7 +824,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9217,500122866,Q5388186,Erick Swenson,1972,0
 1306,500028937,Q13420929,Albert Swinden,1901,1961
 11595,,Q28112824,Corin Sworn,1976,0
-8838,,Q7608409,Stephanie Syjuco,1974,0
+8838,500781543,Q7608409,Stephanie Syjuco,1974,0
 1307,,,Curt Szekessy,0,0
 7409,500114674,Q3473432,Sarah Sze,1969,0
 12379,500079362,Q711673,Arthur Szyk,1894,1951
@@ -3527,7 +3527,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1048,,,Robert Povlich,1937,2003
 18655,,,Laurace James,1936,0
 19315,500487326,Q55217650,Alan Michelson,1953,0
-14309,,Q5342309,Ed Clark,1926,2019
+14309,500013428,Q5342309,Ed Clark,1926,2019
 13656,500090182,Q19665343,Elaine Reichek,1943,0
 19158,,Q28793937,EJ Hill,1985,0
 19212,500487443,Q19642414,Shan Goshorn,1957,2018
@@ -3791,7 +3791,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20002,500781073,Q20631016,Awol Erizku,1988,0
 18975,,Q63117856,Daniel Lind-Ramos,1953,0
 19044,500473097,Q4963096,Brian Belott,1973,0
-20690,,Q112208957,James Phillips,1945,0
+20690,500781662,Q112208957,James Phillips,1945,0
 18870,,Q50345169,Okwui Okpokwasili,1972,0
 18882,,,Peter Born,1972,0
 20174,,Q75863509,Melvonna Ballenger,1954,2003
