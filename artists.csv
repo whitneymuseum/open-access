@@ -1065,7 +1065,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3492,500009626,Q6152625,Jane Peterson,1876,1965
 4310,500020129,Q6074722,Irving Petlin,1934,2018
 1019,,Q64532772,William Pettet,1942,0
-10291,500106744,Q20825678,Richard Pettibone,1938,0
+10291,500106744,Q20825678,Richard Pettibone,1938,2024
 4767,500115615,Q564945,Raymond Pettibon,1957,0
 8317,500116160,Q442486,Elizabeth Peyton,1965,0
 2647,500118748,Q6304556,Judy Pfaff,1946,0
@@ -2277,9 +2277,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4117,500124487,Q1986987,Nicole Eisenman,1965,0
 7337,,Q63018603,Sally Elesby,1942,0
 8654,500373971,Q22094674,Jacob El Hanani,1947,0
-3716,,,Elise,1902,1963
+3716,,Q5361651,Elise,1902,1963
 398,,,Ronnie Elliott,1910,1983
-9035,,,Van Elliott,1924,0
+9035,,Q130267482,Van Elliott,1924,0
 7721,500333316,Q21290811,Jeff Elrod,1966,0
 399,500336519,Q57466885,Herzl Emanuel,1914,2002
 14170,500332273,Q22002477,Elizabeth Enders,1939,0
@@ -2585,7 +2585,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4128,,Q17917680,Claude Clark,1915,2001
 270,500031888,Q21072290,John Clem Clarke,1937,0
 3693,500004924,Q714496,Larry Clark,1943,0
-4733,500048948,,Michael Clark,1946,0
+4733,500048948,Q21409334,Michael Clark,1946,0
 10130,500386764,Q18516500,Edgar Cleijne,1963,0
 271,,,Paul Lewis Clemens,1911,1991
 5279,500116236,Q698667,Francesco Clemente,1952,0
@@ -2700,7 +2700,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 45,500012249,Q6220235,John Baeder,1938,0
 9043,,,Howard Baer,1906,1986
 46,500009657,Q1689871,Jo Baer,1929,0
-11495,500334132,,Alex Bag,1969,0
+11495,500334132,Q1727571,Alex Bag,1969,0
 14141,500720240,Q23542686,Trisha Baga,1985,0
 47,500465598,Q6220240,John Bageris,1924,2000
 49,,Q20089889,Malcolm Bailey,1947,2011
