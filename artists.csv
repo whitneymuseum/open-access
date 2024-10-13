@@ -3606,7 +3606,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19640,500012591,Q86078,Anni Albers,1899,1994
 19251,,,Jeanette Mundt,1982,1982
 19023,,,Heji Shin,1983,0
-17357,,,Elizabeth Jaeger,1988,0
+17357,,Q130393886,Elizabeth Jaeger,1988,0
 18381,500092892,Q52613470,Diane Simpson,1935,0
 19273,,,Todd Gray,1954,1954
 19785,,,Joseph Yoakum,1890,1972
@@ -3984,8 +3984,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21066,500010828,Q1280593,Ron Cooper,1943,0
 16991,,Q104237006,Andy Robert,1984,0
 21289,,,Karen J. Revis,1961,0
-21305,,,Nanibah Chacon,1980,0
-21234,,,Dionne Lee,1988,0
+21305,,Q62022480,Nanibah Chacon,1980,0
+21234,,Q107719124,Dionne Lee,1988,0
 21050,,Q77350356,P. Staff,1987,0
 21285,,,LaToya M. Hobbs,1983,0
 21227,500333532,Q8009745,William Gedney,1932,1989
