@@ -1120,7 +1120,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1046,500006389,Q19276859,Katherine Porter,1941,2024
 11303,500116707,Q528501,Liliana Porter,1941,0
 1047,500018154,Q870701,Richard Pousette-Dart,1916,1992
-1049,,,Mary S. Powers,1885,1959
+1049,,Q96754073,Mary S. Powers,1885,1959
 12577,,,Donald Powley,1955,0
 1050,500029096,Q55219642,Rudy Pozzatti,1925,0
 5050,500023646,Q6697422,Lucio Pozzi,1935,0
@@ -1580,7 +1580,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 16499,500008065,Q13560692,Ellen Lanyon,1926,2013
 3366,500118780,Q16193702,Liz Larner,1960,0
 11982,500332826,Q28911630,Laura Larson,1965,0
-754,,Q6793620,Mauricio Lasansky,1914,2012
+754,500011243,Q6793620,Mauricio Lasansky,1914,2012
 13715,500715761,Q23887704,Liz Magic Laser,1981,0
 3578,500076379,Q1703229,Jonathan Lasker,1948,0
 755,,,Joseph  L. Lasker,1919,2015
@@ -1733,7 +1733,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 2642,500107189,Q21208471,Stephen Kaltenbach,1940,0
 668,,Q20879010,Ben Kamihira,1925,2004
 7848,,Q18044348,Y.Z. Kami,1956,0
-669,,Q12348245,Gerome Kamrowski,1914,2004
+669,500013848,Q12348245,Gerome Kamrowski,1914,2004
 670,500002849,Q6242451,John Kane,1860,1934
 4783,,Q22247120,Ik-Joong Kang,1960,0
 671,500006022,Q881693,Howard Kanovitz,1929,2009
@@ -2037,7 +2037,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5423,,Q77288012,David Goldes,1947,0
 3720,500105338,Q234279,Nan Goldin,1953,0
 8221,500022521,Q1677042,Jack Goldstein,1945,2003
-4609,,,Milton Goldstein,1914,2004
+4609,500085682,,Milton Goldstein,1914,2004
 501,500027445,Q4768387,Anne Goldthwaite,1869,1944
 4118,500003430,Q475655,Leon Golub,1922,2004
 7505,,,Maite Gomez-Rejón,1970,0
@@ -2379,7 +2379,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 349,500464548,Q55218484,Arthur Deshaies,1920,2011
 3575,500112316,Q1174213,David Deutsch,1943,0
 10961,500116301,Q107617037,Lucinda Devlin,1947,0
-351,,Q1378807,Thomas W. Dewing,1851,1938
+351,500014554,Q1378807,Thomas W. Dewing,1851,1938
 13731,,,Dexter Sinister,2006,0
 8014,500033153,Q7796523,Thornton Dial,1928,2016
 4744,500055628,Q19532858,Jessica Diamond,1957,0
