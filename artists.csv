@@ -22,7 +22,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5,,Q7410733,Samuel M. Adler,1898,1979
 14986,500473649,Q440316,Etel Adnan,1925,2021
 6,500028575,Q21809634,Nicholas Africano,1948,0
-7,,Q7172472,Peter Agostini,1913,1993
+7,500071003,Q7172472,Peter Agostini,1913,1993
 4780,500071341,Q12012352,John Ahearn,1951,0
 16906,,,Rosa Aiello,1987,0
 5513,500114566,Q2419774,Doug Aitken,1968,0
@@ -398,7 +398,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7618,500043257,Q4453757,Al Taylor,1948,1999
 14238,500333777,,Henry Taylor,1958,0
 1318,500050992,Q3341685,Henry Fitch Taylor,1853,1925
-1319,,Q53117681,John W. Taylor,1897,1983
+1319,500049512,Q53117681,John W. Taylor,1897,1983
 1320,500041102,Q7240574,Prentiss Hottel Taylor,1907,1991
 1321,,,Wayne Taylor,1931,2001
 9046,500110985,Q50318888,Sam Tchakalian,1929,2004
