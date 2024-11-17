@@ -899,7 +899,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8637,500122615,Q5222866,Dario Robleto,1972,0
 1105,500009145,Q20859488,Hugo Robus,1885,1964
 1106,,Q1246260,Dorothea Rockburne,1934,0
-1107,,,Raymond Rocklin,1922,0
+1107,,Q130727873,Raymond Rocklin,1922,0
 7437,500056823,Q4721520,Alexis Rockman,1962,0
 15037,500389398,Q12006931,Torbjørn Rødland,1970,0
 12238,,,H.A. Rodriguez-Mora,0,0
@@ -1901,7 +1901,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7858,,Q97029,Christian Jankowski,1968,0
 648,500072415,Q22002871,Joel Janowitz,1945,0
 10087,500025158,Q7911290,Valerie Jaudon,1945,0
-10342,,Q20857692,Jeff,1942,0
+10342,,Q92794,Jeff,1942,0
 649,500007772,Q477429,Paul Jenkins,1923,2012
 14659,,,Ulysses Jenkins,1964,0
 650,500115643,Q825963,Neil Jenney,1945,0
@@ -2204,7 +2204,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 444,,,"John H. Foote, Jr.",1921,1968
 445,500530370,Q21785498,Donald Forbes,1905,1951
 8113,,,Forcefield,1996,2002
-5312,,Q1064794,Charles Henri Ford,1913,2002
+5312,500663645,Q1064794,Charles Henri Ford,1913,2002
 5253,,Q1243449,Walton Ford,1960,0
 9383,500329723,,James A. Forsberg,1919,1991
 7925,500351723,Q3484563,Simone Forti,1935,0
@@ -2872,7 +2872,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 137,,,Yuli Blumberg,1894,1964
 9191,500022598,Q71827,Erwin Blumenfeld,1897,1969
 138,500028254,Q2990693,Peter Blume,1906,1992
-135,,Q21416429,Jerome Blum,1884,1956
+135,500026747,Q21416429,Jerome Blum,1884,1956
 12303,,Q472507,Robert Bly,1926,0
 139,,Q7459136,Seymour Boardman,1921,2005
 140,500032444,Q1485390,Mel Bochner,1940,0
@@ -3538,7 +3538,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18387,500078364,Q55217941,Donald Blumberg,1935,0
 17097,,Q104237078,Julia Phillips,1985,0
 19219,,,The Harrisons,1969,2014
-19186,,Q75217999,María Berrio,1982,0
+19186,,Q75217999,María Berrío,1982,0
 12076,,Q6681667,Lorraine O'Grady,1934,0
 18552,,Q62065026,Livia Corona Benjamin,1975,0
 7939,500294241,Q28050387,Tony Cokes,1956,0
