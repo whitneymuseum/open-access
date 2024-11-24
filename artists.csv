@@ -3657,7 +3657,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18411,500294218,Q24218,Nick Cave,1959,0
 20120,500124474,Q3530288,Todd Webb,1905,2000
 19894,,,Kenny Rivero,1981,0
-19886,,,Katherine Hubbard,1981,0
+19886,,Q125543451,Katherine Hubbard,1981,0
 19858,,Q60678086,Louis Fratino,1993,0
 19329,,Q56073537,Diedrick Brackens,1989,0
 12047,500356184,Q22669181,Noah Davis,1983,2015
@@ -3701,7 +3701,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19972,,,Patrick Martinez,1980,0
 19274,,,Joe Minter,1943,1943
 19307,,Q6138298,James Luna,1950,2018
-20244,500469294,,Barbara Olmsted,1915,2013
+20244,500469294,Q114063192,Barbara Olmsted,1915,2013
 20266,500027090,Q6078751,Isami Doi,1903,1965
 20130,,Q24005639,Aaron Gilbert,1979,0
 20257,,Q87299230,Chuck Ramirez,1962,2010
@@ -4011,3 +4011,5 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21253,500196042,Q7313016,Renée Stout,1958,0
 10284,500126014,Q329092,Kehinde Wiley,1977,0
 21314,500118194,Q19842101,Rafael Soriano,1920,2015
+,,,Maya Man,1996,""
+,,Q55455463,Ashley Zelinskie,1986,""
