@@ -1165,7 +1165,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8000,500016887,Q2194579,Doug Ohlson,1936,2010
 960,500010933,Q1279374,Kenzo Okada,1902,1982
 961,500015067,Q4799870,Arthur Okamura,1932,2009
-962,,Q46408,Georgia O'Keeffe,1887,1986
+962,500018666,Q46408,Georgia O'Keeffe,1887,1986
 14791,,Q27970346,Ken Okiishi,1978,0
 963,,,Jerry Okimoto,1924,1998
 8274,,Q4333394,Shimon Okshteyn,1951,2020
@@ -1676,7 +1676,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 790,500024549,Q52119054,Charles Locke,1899,1983
 791,,,Robert Lockhart,1941,0
 4786,500114649,Q3481523,Sharon Lockhart,1964,0
-792,,Q19829342,John Ward Lockwood,1894,1963
+792,500014690,Q19829342,John Ward Lockwood,1894,1963
 793,500019153,Q15436068,Michael Loew,1907,1985
 8773,500122169,Q22278890,Juan Logan,1946,0
 5044,,,Jane Marie Logemann,1942,0
@@ -2840,7 +2840,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17337,,Q17305697,McArthur Binion,1946,0
 17079,,,Phillip Birch,1978,0
 14094,500333932,Q20861416,Willie Birch,1942,0
-11419,,,Colby Bird,1978,0
+11419,,Q131191126,Colby Bird,1978,0
 11545,,,Ingibjörg Birgisdóttir,1981,0
 120,500009912,Q21647626,August Robert Birmelin,1933,0
 11158,500034772,Q3702470,Dara Birnbaum,1946,0
@@ -3255,7 +3255,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17954,,,Fuerza,0,0
 17856,,,G-A Enterprises,0,0
 7479,,,Vincent Gagliostro,1954,0
-17572,,Q50345564,Ja'Tovia Gary,1984,0
+17572,500780708,Q50345564,Ja'Tovia Gary,1984,0
 12109,,Q7777257,Theaster Gates,1973,0
 18005,,,"Gemini Rising, Inc.",0,0
 8904,,Q493952,Andrea Geyer,1971,0
