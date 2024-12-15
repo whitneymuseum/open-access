@@ -1160,7 +1160,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 959,,,Alice O'Connor,0,0
 11337,,Q16214113,John O'Connor,1972,0
 9023,,,Thomas O'Connor,0,0
-12757,,Q73938242,Shaun O'Dell,1968,0
+12757,500471696,Q73938242,Shaun O'Dell,1968,0
 17270,500463706,Q7830609,Toyin Ojih Odutola,1985,0
 8000,500016887,Q2194579,Doug Ohlson,1936,2010
 960,500010933,Q1279374,Kenzo Okada,1902,1982
@@ -1177,7 +1177,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10418,500334564,Q444857,Pauline Oliveros,1932,2016
 967,,,Earle Olsen,1926,2011
 968,,,William Omwake,1946,0
-10601,,Q7143873,Pat O'Neill,1939,0
+10601,500299837,Q7143873,Pat O'Neill,1939,0
 9234,,,Robyn O'Neil,1977,1977
 4708,500115959,Q117012,Yoko Ono,1933,0
 969,500020355,Q3889392,Gordon Onslow-Ford,1912,2003
@@ -1186,7 +1186,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 12310,,,Joel L. Oppenheimer,1930,1988
 8149,,Q11929949,Kristin Oppenheim,1959,0
 971,,Q20981218,John Opper,1908,1994
-14355,,Q42313336,John O'Reilly,1930,0
+14355,500349225,Q42313336,John O'Reilly,1930,0
 4408,500118680,Q36683696,Deborah Oropallo,1954,0
 4800,500114732,Q1242404,Gabriel Orozco,1962,0
 7665,500012316,Q332041,José Clemente Orozco,1883,1949
@@ -1620,7 +1620,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 765,500465780,Q30302585,Michael Lekakis,1907,1987
 3438,500115831,Q16148576,Annette Lemieux,1957,0
 12803,,,Jack Lemon,0,0
-766,,Q94298506,William L'Engle,1884,1957
+766,500049413,Q94298506,William L'Engle,1884,1957
 10424,,,Devin Wayne Leonardi,1981,2014
 3594,500114723,Q218207,Zoe Leonard,1961,0
 4433,,,Leone & Macdonald,1988,0
@@ -2312,7 +2312,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 316,500524711,Q21647182,Lewis C. Daniel,1901,1952
 7579,,Q42313496,Jerry Dantzic,1925,2006
 317,500004321,Q6967681,Nassos Daphnis,1914,2010
-318,,Q4730556,Allan D'Arcangelo,1930,1998
+318,500013648,Q4730556,Allan D'Arcangelo,1930,1998
 11701,500061883,Q721013,Henry Darger,1892,1973
 319,500019289,Q4756760,Andrew Dasburg,1887,1979
 8633,,Q71454342,David Cannon Dashiell,1952,1993
@@ -2991,7 +2991,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7833,500055924,Q15458078,Hans Burkhardt,1904,1994
 200,500005636,Q7149608,Paul Burlin,1886,1969
 201,500026962,Q610532,David Burliuk,1882,1967
-202,,,Betty Burroughs,1899,1988
+202,,Q131412160,Betty Burroughs,1899,1988
 203,500016036,Q16943988,Bryson Burroughs,1869,1934
 7653,500053989,Q188176,William Burroughs,1914,1997
 3692,,Q3335558,Nancy Burson,1948,0
