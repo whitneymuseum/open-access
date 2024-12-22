@@ -121,7 +121,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 41,500351380,Q5703827,Helène Aylon,1931,2020
 11174,500125452,Q2874830,Ay-O,1931,0
 4065,500118209,Q16105841,Luis Cruz Azaceta,1942,0
-42,500482839,,Norio Azuma,1928,2004
+42,500482839,Q94366694,Norio Azuma,1928,2004
 14719,,Q4701629,Akram Zaatari,1966,0
 1460,500023529,Q7351336,Robert Zakanitch,1935,0
 9957,500284882,Q61997023,Amir Zaki,1974,0
@@ -200,7 +200,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3533,500329422,Q5046268,Carrie Mae Weems,1953,0
 1392,500118696,Q567366,William Wegman,1943,0
 1393,500068605,Q5353726,Elbert Weinberg,1928,1991
-7489,500478801,,Abraham S. Weiner,1897,1982
+7489,500478801,Q113804198,Abraham S. Weiner,1897,1982
 4235,500013081,Q680192,Lawrence Weiner,1942,2021
 7490,500478803,,Louis Weiner,1892,1967
 8267,,,Robert I. Weingarten,1941,0
@@ -315,7 +315,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4305,500078141,Q5546504,George Woodman,1932,2017
 5012,500097842,Q15489989,Hale Aspacio Woodruff,1900,1980
 7926,,Q1386188,Lebbeus Woods,1940,2012
-1448,,,Alan Wood-Thomas,1920,1976
+1448,,Q131445968,Alan Wood-Thomas,1920,1976
 3053,500118710,Q1087064,Christopher Wool,1955,0
 1449,,,George K. Wright,1928,1995
 12316,,Q6145850,James Wright,1927,1980
@@ -3539,7 +3539,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17097,,Q104237078,Julia Phillips,1985,0
 19219,,,The Harrisons,1969,2014
 19186,,Q75217999,María Berrío,1982,0
-12076,500294142,Q6681667,Lorraine O'Grady,1934,0
+12076,500294142,Q6681667,Lorraine O'Grady,1934,2024
 18552,,Q62065026,Livia Corona Benjamin,1975,0
 7939,500294241,Q28050387,Tony Cokes,1956,0
 18966,,Q28861763,Jennifer Packer,1984,0
@@ -3954,8 +3954,6 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21074,,Q20683904,Zoë Buckman,1985,0
 21011,,Q123363957,Leslie Martinez,1985,0
 20901,500345058,Q69448330,Jason Lazarus,1975,0
-20901,500345058,Q69448330,Jason Lazarus,1975,0
-20900,,,eric fleischauer,1977,0
 20900,,,eric fleischauer,1977,0
 20983,,,Kyung-Me,1991,0
 20532,,Q110781678,Rose Salane,1992,0
@@ -3975,7 +3973,6 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20287,,,Miyoko Ito,0,0
 21212,,Q127328513,Oscar yi Hou,1998,0
 21229,,,Carrie Yamaoka,0,0
-21230,,,Reynaldo Rivera,0,0
 21230,,,Reynaldo Rivera,0,0
 21231,,,Carla Williams,0,0
 21075,,Q5026623,Camille Billops,1933,2019
@@ -4013,3 +4010,10 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21314,500118194,Q19842101,Rafael Soriano,1920,2015
 ,,,Maya Man,1996,""
 ,,Q55455463,Ashley Zelinskie,1986,""
+8560,500476100,Q63230319,Martha Jane Pettway,1898,2003
+20762,,,Christopher Harris,1962,0
+16717,,,Constantina Zavitsanos,1977,0
+19616,,,Steven Fragale,1984,0
+21047,,,Lotus L. Kang,1985,0
+20993,500196202,Q1901598,Rigoberto Torres,1960,0
+21390,,,Donna Huanca,1980,0
