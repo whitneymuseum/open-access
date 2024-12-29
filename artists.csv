@@ -1482,7 +1482,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 902,500004274,Q160448,László Moholy-Nagy,1895,1946
 903,,Q110111726,Robert Moir,1917,1981
 904,,,Molla,1916,0
-905,500014097,Q20280146,Hans Moller,1905,0
+905,500014097,Q20280146,Hans Moller,1905,2000
 13015,500356205,Q19630343,Dianna Molzan,1972,0
 7511,,,Lucas Monaco,1969,0
 7865,500331433,Q267170,Meredith Monk,1942,0
@@ -2919,7 +2919,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11205,500129189,Q6208754,Joe Bradley,1975,0
 9215,500122418,Q7538895,Slater Bradley,1975,0
 2641,500473303,Q5231661,David Bradshaw,1944,0
-8986,500490006,,George A. Bradshaw,1880,1968
+8986,500490006,Q63236467,George A. Bradshaw,1880,1968
 167,500027180,Q1691342,Joe Brainard,1942,1994
 7344,,Q698676,Stan Brakhage,1933,2003
 11923,500335378,Q433661,Glenn Branca,1948,0
@@ -3963,7 +3963,6 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20933,500404209,Q24844389,Dorothy Antoinette LaSelle,1901,2002
 20941,,,Mark Wilson,1943,0
 20942,,Q7362232,Roman Verostko,1929,0
-20319,,,Luis Jiménez,0,0
 20946,500020843,Q325184,Siah Armajani,1939,2020
 21312,500334793,Q20715407,Vivian Browne,1929,1993
 20473,,,Awilda Sterling-Duprey,1947,0
@@ -4011,9 +4010,5 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 ,,,Maya Man,1996,""
 ,,Q55455463,Ashley Zelinskie,1986,""
 8560,500476100,Q63230319,Martha Jane Pettway,1898,2003
-20762,,,Christopher Harris,1962,0
-16717,,,Constantina Zavitsanos,1977,0
 19616,,,Steven Fragale,1984,0
-21047,,,Lotus L. Kang,1985,0
 20993,500196202,Q1901598,Rigoberto Torres,1960,0
-21390,,,Donna Huanca,1980,0
