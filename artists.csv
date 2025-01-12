@@ -512,7 +512,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1160,500765114,Q21647711,Saul,1904,1982
 1161,500005884,Q3376863,Peter Saul,1934,0
 9699,,Q22002990,Matt Saunders,1975,0
-1162,500028910,Q7299135,Raymond Jennings Saunders,1934,0
+1162,500028910,Q7299135,Raymond Saunders,1934,0
 1163,,Q18889669,W. Lee Savage,1928,1998
 1164,,Q3617217,Angelo Savelli,1911,1995
 1165,,,Helen Sawyer,1900,1999
@@ -829,7 +829,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7409,500114674,Q3473432,Sarah Sze,1969,0
 12379,500079362,Q711673,Arthur Szyk,1894,1951
 7881,500114662,Q567772,Walid Raad,1967,0
-5052,500088738,Q63090034,Raquel Rabinovich,1929,0
+5052,500088738,Q63090034,Raquel Rabinovich,1929,2025
 1067,,Q28784581,Leo Rabkin,1919,0
 1068,,Q55219667,André Racz,1916,1994
 1069,,Q2390275,Joseph Raffael,1933,0
@@ -1659,7 +1659,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 13854,,,Ligorano/Reese,1980,0
 780,500125424,Q56033510,Russell Limbach,1904,1971
 781,500024690,Q126074,Richard Lindner,1901,1978
-782,,,Evan Lindquist,1936,2023
+782,,Q16104433,Evan Lindquist,1936,2023
 4663,500087075,Q19276703,Judith Linhares,1940,0
 4349,500021511,Q28922808,Judy Linn,1947,0
 11798,500127954,Q6354621,Kalup Linzy,1977,0
@@ -2054,7 +2054,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 508,500053701,Q21810657,Sidney Gordin,1918,1996
 7338,,Q16202480,Janine Gordon,1966,0
 509,500074594,Q23720084,Robert Gordy,1933,1986
-4459,,,Boris Gorelick,1912,1984
+4459,,Q63539982,Boris Gorelick,1912,1984
 10611,500096644,Q41253902,Gianfranco Gorgoni,1941,2019
 510,,,Arshile Gorky,1897,1948
 3577,500118770,Q4782029,April Gornik,1953,0
@@ -2126,7 +2126,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 543,500143216,Q21288551,Bernard Gussow,1881,1957
 544,500350191,Q7372876,Roy Gussow,1918,2011
 545,500023901,Q701952,Philip Guston,1913,1980
-12428,,,Walter Gutman,1903,1986
+12428,,Q98768276,Walter Gutman,1903,1986
 9230,,Q3564983,Wade Guyton,1972,0
 12398,,,Guyton\Walker,2004,0
 546,500004279,Q7345013,Robert Gwathmey,1903,1988
@@ -4014,3 +4014,10 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21047,,,Lotus L. Kang,1985,0
 20993,500196202,Q1901598,Rigoberto Torres,1960,0
 21390,,,Donna Huanca,1980,0
+21516,,Q123708008,Tidawhitney Lek,1992,0
+20371,500342964,Q7709003,Thaddeus Mosley,1926,0
+21554,500098132,Q540866,Jules Engel,1909,2003
+21549,,,Carlo Vitale,0,0
+21555,,Q117860106,cameron clayborn,1992,0
+13392,,Q29035350,Julie Becker,1972,2016
+21275,,Q19879231,Danielle Orchard,1985,0
