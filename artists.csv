@@ -85,7 +85,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5373,500091955,Q1488149,Ida Applebroog,1929,2023
 10338,500330894,Q16729470,Tomie Arai,1949,0
 4285,500012758,Q234608,Diane Arbus,1923,1971
-8339,,Q1135754,Cory Arcangel,1978,0
+8339,500122414,Q1135754,Cory Arcangel,1978,0
 10230,500128804,Q5337111,Edgar Arceneaux,1972,0
 26,,Q22159299,Edmund Archer,1904,1986
 27,500022523,Q157578,Alexander Archipenko,1887,1964
@@ -152,7 +152,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17114,500463809,Q20880943,Anicka Yi,1971,0
 17030,,,Tuguldur Yondonjamts,1977,0
 1457,500004402,Q6115904,Jack Youngerman,1926,2020
-10557,,,La Monte Young,1935,1935
+10557,500081186,Q432822,La Monte Young,1935,1935
 1455,500023951,Q6734820,Mahonri M. Young,1877,1957
 1456,500001324,Q1755473,Peter Young,1940,0
 8186,,Q7261674,Purvis Young,1943,2010
@@ -641,9 +641,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3478,500077698,Q3219659,Laurie Simmons,1949,0
 1224,500029057,Q17559997,Charles Simonds,1945,0
 5339,500114669,Q6232551,John F. Simon Jr.,1963,0
-9743,,Q534385,Taryn Simon,1975,0
+9743,500393640,Q534385,Taryn Simon,1975,0
 12364,,Q63072289,Lauren E. Simonutti,1968,2012
-3452,,Q6681389,Lorna Simpson,1960,0
+3452,500088695,Q6681389,Lorna Simpson,1960,0
 16829,,,Simpson-Middleman,0,0
 17068,500469880,Q55235616,Avery Singer,1987,0
 1227,500007618,Q6881400,Mitchell Siporin,1910,1976
@@ -866,7 +866,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1085,,,Siegfried Reinhardt,1925,1989
 4356,500052041,Q43135765,Philip Reisman,1904,1992
 17131,500007540,Q19921866,Roland Reiss,1929,2020
-1086,,Q5248361,Deborah Remington,1930,2010
+1086,500030902,Q5248361,Deborah Remington,1930,2010
 1087,,Q20855646,Edda Renouf,1943,0
 8305,500007630,Q7153180,Paul Resika,1928,0
 1088,500007270,Q3858097,Milton Resnick,1917,2004
@@ -2375,7 +2375,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11178,,Q2460190,Willem de Ridder,1939,2022
 347,500021094,Q6279626,José de Rivera,1904,1985
 4493,,Q6199963,Jimmy DeSana,1949,1990
-9359,,Q16196424,Liz Deschenes,1966,0
+9359,500333914,Q16196424,Liz Deschenes,1966,0
 349,500464548,Q55218484,Arthur Deshaies,1920,2011
 3575,500112316,Q1174213,David Deutsch,1943,0
 10961,500116301,Q107617037,Lucinda Devlin,1947,0
@@ -3417,7 +3417,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17729,,Q71109110,Puppies Puppies,1989,0
 9612,,Q5006090,Casey Reas,1972,0
 17759,,Q32637209,Jessi Reaves,1986,0
-17730,,,Cauleen Smith,0,0
+17730,500490916,Q5054501,Cauleen Smith,0,0
 17819,500462314,,Ming Smith,1950,0
 17731,,,Maya Stovall,0,0
 17566,,Q125543435,Ben Thorp Brown,1983,0
@@ -3818,7 +3818,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20753,,Q51120362,Rose B. Simpson,1983,0
 20897,500126844,Q454467,Oscar Howe,1915,1983
 19864,500073486,Q7782868,Theresa Hak Kyung Cha,1951,1982
-12182,,,Every Ocean Hughes,0,0
+12182,500294144,Q16216748,Every Ocean Hughes,0,0
 19945,,Q81919574,Felipe Baeza,1987,0
 20607,,,Javier Orfón,1989,0
 20522,,Q64009661,Pao Houa Her,1982,0
