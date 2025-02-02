@@ -10,7 +10,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4475,500673119,Q963967,Juan Abreu,1952,0
 1,500014538,Q433471,Vito Acconci,1940,2017
 8441,,,Keith Achepol,1934,0
-5030,,Q4725709,Alice Adams,1930,0
+5030,500033075,Q4725709,Alice Adams,1930,0
 7722,500026108,Q60809,Ansel Adams,1902,1984
 3385,500115649,Q5258132,Dennis Adams,1948,0
 3,500003776,Q6390477,Kenneth M. Adams,1897,1966
@@ -27,24 +27,24 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 16906,,,Rosa Aiello,1987,0
 5513,500114566,Q2419774,Doug Aitken,1968,0
 8,,Q75447972,Russell Barnett Aitken,1910,2002
-12564,,Q16148999,Ricci Albenda,1966,0
+12564,500271565,Q16148999,Ricci Albenda,1966,0
 9,500033049,Q170071,Josef Albers,1888,1976
 10,,Q5024315,Calvin Albert,1918,2007
 11,500016413,Q1392676,Ivan Le Lorraine Albright,1897,1983
 5481,500097227,Q6647374,Lita Albuquerque,1946,0
 12946,,Q3611295,Albert L. Alcopley,1910,1992
-12061,,Q7323664,Richard Aldrich,1975,0
+12061,500294121,Q7323664,Richard Aldrich,1975,0
 9968,500027985,Q328248,Pierre Alechinsky,1927,0
 12156,500033110,Q2073638,Peter Alexander,1939,2020
 4329,500336512,Q5750663,Carlos Alfonzo,1950,1991
 9731,500329848,Q4962951,Brian Alfred,1974,0
 14093,500355605,Q5271358,Diana Al-Hadid,1981,0
-9223,,Q16002504,Laylah Ali,1968,0
+9223,500121046,Q16002504,Laylah Ali,1968,0
 12,500070935,Q77348676,William Allan,1936,0
 7675,,Q42157507,Harold Allen,1912,1998
 7363,,,Lynne Allen,1949,0
 16760,500015785,Q5041737,Carlos Almaraz,1941,1989
-4354,,Q28784694,Merry Alpern,1955,0
+4354,500462684,Q28784694,Merry Alpern,1955,0
 5189,500112461,Q5567571,Glen Earl Alps,1914,1996
 13,500089734,Q1906150,Charles Henry Alston,1907,1977
 14,,Q22235729,Harold Altman,1924,2003
@@ -53,7 +53,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4662,500487826,Q19609556,Candida Alvarez,1955,0
 4635,,,D-L Alvarez,1962,0
 10425,,Q55217910,Noriko Ambe,1967,0
-15092,,,Irving Amen,0,0
+15092,500042428,Q6074464,Irving Amen,0,0
 16,500011440,Q18686472,Gregory Amenoff,1948,0
 1497,,,American Abstract Artists,1936,1936
 17,,Q19864133,Leo Amino,1911,1989
@@ -67,7 +67,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20,500011819,Q21158595,Lennart Anderson,1928,2015
 8182,,,Linda Anderson,0,0
 8191,500021223,Q7965210,Walter Anderson,1903,1965
-7341,,Q1272383,Joe Andoe,1955,0
+7341,500188582,Q1272383,Joe Andoe,1955,0
 21,500011651,Q315348,Carl Andre,1935,2024
 22,500014659,Q6851632,Milet Andrejevic,1925,1989
 8984,500111179,Q4889934,Benny Andrews,1930,2006
@@ -104,14 +104,14 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8522,500065849,Q5258158,Dennis Ashbaugh,1946,0
 4951,500114697,Q6828287,Michael Ashkin,1955,0
 9224,,,assume vivid astro focus,2001,0
-35,,Q20200670,John Atherton,1900,1952
+35,500011141,Q20200670,John Atherton,1900,1952
 12151,,,Conrad Atkinson,1940,2022
 13626,500333810,Q5075231,Charles Atlas,1949,0
 10117,,Q19955709,Alice Attie,1950,0
 3958,500024829,Q5299500,Dotty Attie,1938,0
 12066,500294123,Q15991118,Tauba Auerbach,1981,0
 36,500005655,Q2282231,George C. Ault,1891,1948
-37,,Q5341650,Edward Avedisian,1936,2007
+37,500004353,Q5341650,Edward Avedisian,1936,2007
 5016,500013773,Q305497,Richard Avedon,1923,2004
 4127,,Q107166952,Eric Avery,1948,0
 38,,Q2714574,Milton Avery,1885,1965
@@ -122,7 +122,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11174,500125452,Q2874830,Ay-O,1931,0
 4065,500118209,Q16105841,Luis Cruz Azaceta,1942,0
 42,500482839,Q94366694,Norio Azuma,1928,2004
-14719,,Q4701629,Akram Zaatari,1966,0
+14719,500395285,Q4701629,Akram Zaatari,1966,0
 1460,500023529,Q7351336,Robert Zakanitch,1935,0
 9957,500284882,Q61997023,Amir Zaki,1974,0
 4745,500118714,Q43140380,Michele Zalopany,1955,0
@@ -169,8 +169,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1381,,,Sylvia Wald,1914,2011
 9827,500022965,Q324571,John Walker,1939,0
 4563,500123343,Q444277,Kara Walker,1969,0
-10172,,Q4476103,Kelley Walker,1969,0
-4187,,Q22086685,Sandy Walker,1942,0
+10172,500294190,Q4476103,Kelley Walker,1969,0
+4187,500476004,Q22086685,Sandy Walker,1942,0
 1382,,Q4669219,Abraham Walkowitz,1878,1965
 11919,500101667,Q550428,Jeff Wall,1946,0
 14741,500332221,Q5214549,Dan Walsh,1960,0
@@ -182,7 +182,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4648,,Q52157196,Hyman Warsager,1909,1974
 1385,500487265,Q41634654,Jane Wasey,1912,1992
 11255,500294309,Q7186695,Phoebe Washburn,1973,0
-3482,,Q119628844,Oliver Wasow,1960,0
+3482,500462677,Q119628844,Oliver Wasow,1960,0
 13848,500331901,Q314926,John Waters,1946,0
 1386,,Q20877821,Franklin C. Watkins,1894,1972
 1387,500041126,Q21467915,Nan Watson,1876,1966
@@ -204,7 +204,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4235,500013081,Q680192,Lawrence Weiner,1942,2021
 7490,500478803,,Louis Weiner,1892,1967
 8267,,,Robert I. Weingarten,1941,0
-1394,,Q21288735,David Weinrib,1924,2016
+1394,500063975,Q21288735,David Weinrib,1924,2016
 1395,500020809,Q1284220,J. Alden Weir,1852,1919
 4258,500077457,Q28465153,Ruth Ellen Weisberg,1942,0
 3788,500005043,Q6145303,James Welling,1951,0
@@ -249,8 +249,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1422,500022350,Q2581047,William T. Wiley,1937,0
 9858,500021825,Q254663,Hannah Wilke,1940,1993
 1423,,,Ulfert S. Wilke,1907,1988
-1424,,Q21809609,John Willenbecher,1936,0
-5240,,Q1087061,Christopher Williams,1956,0
+1424,500021360,Q21809609,John Willenbecher,1936,0
+5240,500029979,Q1087061,Christopher Williams,1956,0
 12247,500085600,Q719185,Emmett Williams,1925,2007
 1425,,Q5769118,Hiram D. Williams,1917,2003
 17253,,Q20108928,Michael Williams,1978,0
@@ -286,7 +286,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1440,500000039,Q2405815,Terry Winters,1949,0
 3856,,,William Winter,1899,1939
 9039,,,Melville Thomas Wire,1903,0
-1441,,Q6372377,Karl Wirsum,1939,2021
+1441,500015267,Q6372377,Karl Wirsum,1939,2021
 3901,500020019,Q554307,Joel-Peter Witkin,1939,0
 8261,,,Bettina Witteveen,0,0
 1442,500002471,Q28706357,Philip Wofford,1935,0
@@ -309,12 +309,12 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3969,500009062,Q459378,Beatrice Wood,1893,1998
 4646,500008853,Q5079004,Charles H. Woodbury,1864,1940
 1447,500031056,Q217434,Grant Wood,1891,1942
-17139,,Q4128225,Jonas Wood,1977,0
-3558,,Q4899015,Betty Woodman,1930,2018
+17139,500371800,Q4128225,Jonas Wood,1977,0
+3558,500086968,Q4899015,Betty Woodman,1930,2018
 4136,500084070,Q242308,Francesca Woodman,1958,1981
 4305,500078141,Q5546504,George Woodman,1932,2017
 5012,500097842,Q15489989,Hale Aspacio Woodruff,1900,1980
-7926,,Q1386188,Lebbeus Woods,1940,2012
+7926,500020306,Q1386188,Lebbeus Woods,1940,2012
 1448,,Q131445968,Alan Wood-Thomas,1920,1976
 3053,500118710,Q1087064,Christopher Wool,1955,0
 1449,,,George K. Wright,1928,1995
@@ -338,7 +338,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7450,500032481,Q3161458,James Van Der Zee,1886,1983
 1362,500021637,Q21973680,Jay Van Everen,1875,1947
 1363,,Q79681711,Cock van Gent,1925,1963
-13244,,,Carl Van Vechten,0,0
+13244,500058409,Q312851,Carl Van Vechten,0,0
 1366,500051111,Q21786214,Dorothy Varian,1895,1985
 1367,,,Nicholas Vasilieff,1892,1970
 1368,500469759,Q77348290,Gene Vass,1922,1996
@@ -349,7 +349,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5148,500349869,Q19946055,JoAnn Verburg,1950,0
 5440,500114678,Q5108362,Chris Verene,1969,0
 7513,,,Heather Vernon,0,0
-4802,,Q5240643,David Vestal,1924,2013
+4802,500356037,Q5240643,David Vestal,1924,2013
 1369,,Q5400843,Esteban Vicente,1903,2001
 1370,500021398,Q7350612,Robert Vickrey,1926,2011
 9036,,Q21879441,Frede Vidar,1911,1967
@@ -357,11 +357,11 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 14105,500127962,Q21262103,William Villalongo,1975,0
 1372,500061066,Q107064513,Frank Lincoln Viner,1937,0
 4421,500092205,Q437616,Bill Viola,1951,2024
-9242,,Q4856501,Banks Violette,1973,0
+9242,500128095,Q4856501,Banks Violette,1973,0
 1373,,Q55418973,Martha Visser't Hooft,1906,0
-7883,,Q7610760,Stephen Vitiello,1964,0
+7883,500332869,Q7610760,Stephen Vitiello,1964,0
 4186,500336487,Q99361077,Joseph Vogel,1911,1995
-1374,,Q7383250,Ruth Vollmer,1903,1982
+1374,500007987,Q7383250,Ruth Vollmer,1903,1982
 7512,,,John von Bergen,1971,0
 13764,,,Charline Von Heyl,1960,1960
 1375,500105335,Q2344047,Stephan von Huene,1932,2000
@@ -373,12 +373,12 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 12245,,,Wolff Vostell,1932,1998
 1379,500081144,Q3376949,Peter Voulkos,1924,2002
 1380,500021966,Q19742245,Vaclav Vytlacil,1892,1984
-1357,,Q63540053,Ansei Uchima,1921,2000
+1357,500051067,Q63540053,Ansei Uchima,1921,2000
 5421,500095150,Q1285072,Jerry N. Uelsmann,1934,2022
 1358,500051676,Q558085,Tomi Ungerer,1931,0
 12237,,Q7282349,Vargas-Suarez Universal,1972,0
 14426,,Q44627574,Stewart Uoo,1985,0
-14210,,Q25513831,Kaari Upson,1972,2021
+14210,500463870,Q25513831,Kaari Upson,1972,2021
 3579,500026290,Q943181,Philip Taaffe,1955,0
 1308,500026877,Q4821560,Augustus Vincent Tack,1870,1949
 12026,,,Dan Tague,1974,0
@@ -414,9 +414,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 2645,500093298,Q22237360,Robert Therrien,1947,2019
 1325,500010185,Q698275,Wayne Thiebaud,1920,2021
 1326,500041104,Q4733608,Alma Thomas,1891,1978
-11868,,Q3311753,Mickalene Thomas,1971,0
+11868,500356217,Q3311753,Mickalene Thomas,1971,0
 1327,500080773,Q4934184,Bob Thompson,1937,1966
-11251,,Q21290814,Cheyney Thompson,1975,0
+11251,500294307,Q21290814,Cheyney Thompson,1975,0
 4449,500349703,Q42313519,Jerry L. Thompson,1945,0
 11252,,,Mungo Thomson,1969,1969
 1328,500023134,Q8019384,William Thon,1906,2000
@@ -447,10 +447,10 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1339,500033502,Q52157424,Hugh Townley,1923,2008
 9272,500122871,Q23417092,Tam Van Tran,1966,0
 4447,,Q862623,Bill Traylor,1854,1949
-10226,,Q7384595,Ryan Trecartin,1981,0
+10226,500294188,Q7384595,Ryan Trecartin,1981,0
 1340,,Q6297642,Joyce Treiman,1922,1991
 4811,500089775,Q2865358,Arthur Tress,1940,0
-10258,,Q18158933,Kerry Tribe,1973,0
+10258,500127961,Q18158933,Kerry Tribe,1973,0
 1341,,Q22075425,M. A. Tricca,1880,1969
 12822,,,Trisha Brown Dance Company,1970,0
 1342,500000734,Q828350,Ernest Trova,1927,2009
@@ -465,7 +465,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11102,,,Diane Tuft,0,0
 1349,,Q21970681,James B. Turnbull,1909,1976
 1350,,Q22086654,R. D. Turnbull,1899,1943
-3496,,,Alan Turner,1943,2020
+3496,500014266,,Alan Turner,1943,2020
 1351,500009338,Q740966,James Turrell,1943,0
 8118,,Q55219925,Anne Turyn,1954,0
 5393,,,Charles Turzak,1899,1986
@@ -484,7 +484,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1146,500025288,Q444567,Kay Sage,1898,1963
 348,500024269,Q168704,Niki de Saint Phalle,1930,2002
 12241,,Q7677109,Takako Saito,1929,0
-7599,,Q6163419,Jason Salavon,1970,0
+7599,500329849,Q6163419,Jason Salavon,1970,0
 1147,500008018,Q20902173,Attilio Salemme,1911,1955
 1148,,Q21995142,Lucia Autorino Salemme,1919,2010
 1149,500027321,Q2637678,David Salle,1952,0
@@ -504,14 +504,14 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1154,500007856,Q16106789,Alan Saret,1944,0
 1155,500023972,Q155626,John Singer Sargent,1856,1925
 1156,,Q43136373,Charles Sarka,1879,1960
-1157,,Q2062158,Paul Sarkisian,1928,0
+1157,500071686,Q2062158,Paul Sarkisian,1928,0
 7851,500335210,Q7176779,Peter Sarkisian,1965,0
 10021,,,Raymond Saroff,1922,0
 1158,500117007,Q7674370,Tadashi Sato,1923,2005
 15094,500469866,Q20011585,Jacolby Satterwhite,1986,0
 1160,500765114,Q21647711,Saul,1904,1982
 1161,500005884,Q3376863,Peter Saul,1934,0
-9699,,Q22002990,Matt Saunders,1975,0
+9699,500474125,Q22002990,Matt Saunders,1975,0
 1162,500028910,Q7299135,Raymond Saunders,1934,0
 1163,,Q18889669,W. Lee Savage,1928,1998
 1164,,Q3617217,Angelo Savelli,1911,1995
@@ -528,12 +528,12 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1171,500028006,Q542496,Miriam Schapiro,1923,2015
 14007,,,Jef Scharf,1969,0
 1172,500007471,Q3195237,Kenny Scharf,1958,0
-14083,,Q77348214,David Scher,1952,0
+14083,500333508,Q77348214,David Scher,1952,0
 9311,,Q63073289,Lesley Schiff,1951,0
 11243,500294299,Q43136533,Melanie Schiff,1977,0
 1173,500098293,,Herbert Schiffrin,1944,0
 1174,,Q510906,Joseph Schillinger,1895,1943
-7600,,Q6378525,Katy Schimert,1963,0
+7600,500114744,Q6378525,Katy Schimert,1963,0
 12129,500294146,Q63073450,Aurel Schmidt,1982,0
 1175,,Q59577973,Julius Schmidt,1923,2017
 1176,500005190,Q22324054,Katherine Schmidt,1898,1978
@@ -550,8 +550,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3966,,Q63073330,Flora Irwin Schofield,1873,1960
 1184,,,John Scholl,1827,1917
 11988,,,Carl Scholz,0,0
-4436,,Q5147176,Collier Schorr,1963,0
-4348,,Q43136622,Victor Schrager,1950,0
+4436,500126099,Q5147176,Collier Schorr,1963,0
+4348,500057687,Q43136622,Victor Schrager,1950,0
 1185,500055512,Q21880760,Karl Schrag,1912,1995
 1186,,,Georges Schreiber,1904,1979
 1188,500004540,Q6271524,Jon Schueler,1916,1992
@@ -561,7 +561,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10019,500126065,Q5214826,Dana Schutz,1976,0
 1190,500074404,Q5403208,Ethel Schwabacher,1903,1984
 3550,500087098,Q966401,Buky Schwartz,1932,2009
-1191,,Q15047049,Manfred Schwartz,1909,1970
+1191,500055533,Q15047049,Manfred Schwartz,1909,1970
 1192,500096285,Q22087591,William Schwedler,1942,1982
 848,500056160,Q15993186,Martyl Schweig Langsdorf,1917,2013
 1193,500055530,Q63074067,Gertrude Schweitzer,1911,1989
@@ -579,19 +579,19 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 13366,,,Peter Sekaer,1910,1950
 9458,500085803,Q324864,Allan Sekula,1951,2013
 12176,,,Frank Selby,1975,0
-1198,,Q1529786,Jason Seley,1919,1983
+1198,500110744,Q1529786,Jason Seley,1919,1983
 1199,500041081,Q2376818,Charles Seliger,1926,2009
 5273,500333339,Q43136886,Jonathan Seliger,1955,0
 1200,500022797,Q450110,Kurt Seligmann,1900,1962
 17038,500088056,Q16093067,Joan Semmel,1932,0
 4764,,,Beverly Semmes,1958,0
-1201,,Q20981219,John Sennhauser,1907,1978
+1201,500333034,Q20981219,John Sennhauser,1907,1978
 4270,500059149,Q503335,Andres Serrano,1950,0
 1202,500029327,Q321245,Richard Serra,1938,2024
 12597,500330319,,Lawrence Seward,1966,0
 12436,500332928,Q16204661,Jamel Shabazz,1960,0
 1203,500005524,Q695239,Ben Shahn,1898,1969
-4799,,Q7153537,Paul Shambroom,1956,0
+4799,500114746,Q7153537,Paul Shambroom,1956,0
 9031,,,Frederick Emanuel Shane,1906,1990
 12722,,,shannonbold,0,0
 1204,500118704,Q461178,Joel Shapiro,1941,0
@@ -601,7 +601,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1206,500025487,Q5078400,Charles G. Shaw,1892,1974
 3335,500056898,Q6198060,Jim Shaw,1952,0
 1207,500346347,Q28741412,Richard Shaw,1941,0
-3956,,Q6303669,Judith Shea,1948,0
+3956,500068586,Q6303669,Judith Shea,1948,0
 4599,,,Jack Shear,1953,0
 11111,500333623,Q19509449,Arlene Shechet,1951,0
 1208,,Q77603176,Stuart Shedletsky,1944,2006
@@ -621,20 +621,20 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3904,500040819,Q586141,Stephen Shore,1947,0
 11335,500351075,Q4738749,Alyson Shotz,1964,0
 1216,,Q19946403,Kenneth Showell,1939,1997
-10305,,Q43137313,Gedi Sibony,1973,0
+10305,500294159,Q43137313,Gedi Sibony,1973,0
 1217,500332983,,Alan Siegel,1938,0
 11244,500294300,Q23874794,Amie Siegel,1974,0
 13021,500037103,Q24704131,Arthur Siegel,1913,1978
 1218,,Q52157437,Lundy Siegriest,1925,1985
 5091,500122621,Q6143161,James Siena,1957,0
-8437,,Q7153600,Paul Sietsema,1968,0
+8437,500355781,Q7153600,Paul Sietsema,1968,0
 7733,500010941,Q5553973,Hollis Sigler,1948,2001
 1219,500467266,Q26270071,Oli Sihvonen,1921,1991
 4846,500114748,Q7462372,Shahzia Sikander,1969,0
 9007,,Q481952,Amy Sillman,1955,0
 1220,,,Si Sillman,1924,1992
 11144,500354232,Q6491114,Larry Silver,1934,0
-5057,,Q16019224,Louis Silverstein,1919,2011
+5057,500467276,Q16019224,Louis Silverstein,1919,2011
 1222,500330283,Q96761014,Helena Simkhovitch,1908,0
 1223,500055629,Q22086728,Simkha Simkhovitch,1893,1949
 3913,500333324,Q5525940,Gary Simmons,1964,0
@@ -668,7 +668,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1234,,Q21466797,Hassel W. Smith,1915,2007
 11110,500350481,Q706886,Jack Smith,1932,1989
 1235,500018974,Q21970549,Jacob Getlar Smith,1898,1958
-5537,500092544,Q4415659,Jaune Quick-to-See Smith,1940,0
+5537,500092544,Q4415659,Jaune Quick-to-See Smith,1940,2025
 10160,500294160,,Jennie Smith,1981,0
 12101,500333763,Q15454606,Josh Smith,1976,0
 1236,,Q21647168,Judson Smith,1880,1962
@@ -676,7 +676,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9032,,,Lawrence Beal Smith,1909,1995
 1237,500030927,Q1818900,Leon Polk Smith,1906,1996
 13659,,Q55236223,Michael E. Smith,1977,0
-5398,,,Mike Smith,1951,0
+5398,500467595,,Mike Smith,1951,0
 9033,,Q84561655,Moishe Smith,1929,1993
 1238,,Q515745,Pamela Colman Smith,1878,1951
 4437,500350488,Q557,Patti Smith,1946,0
@@ -716,7 +716,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7312,,,Matthew Sontheimer,1969,0
 12953,,Q105089946,Helen Soreff,1926,1998
 12314,,Q326773,Gilbert Sorrentino,1929,2006
-9258,,Q979236,Alec Soth,1969,0
+9258,500122638,Q979236,Alec Soth,1969,0
 5306,500116275,Q28661695,Al Souza,1944,0
 1254,,,Isaac Soyer,1907,1981
 1255,500030568,Q6915945,Moses Soyer,1899,1974
@@ -741,7 +741,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1264,,,Everett Spruce,1907,2002
 1265,,,Robert Squeri,1923,0
 1266,,,Jack Squier,1927,2015
-1267,,Q55219814,Lawrence Stafford,1938,0
+1267,500389632,Q55219814,Lawrence Stafford,1938,0
 9857,500334951,Q16151983,Jan Staller,1952,0
 1268,500006236,Q470423,Theodoros Stamos,1922,1997
 1269,500007819,Q3431234,Richard Stankiewicz,1922,1983
@@ -749,7 +749,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1271,,,William Staples,1934,2010
 11248,500294304,Q16197269,Frances Stark,1967,0
 4818,,Q43138051,Joseph Stashkevetch,1958,0
-1272,,Q77324784,Andrew Stasik,1932,0
+1272,500467971,Q77324784,Andrew Stasik,1932,0
 17192,,Q21809601,Evelyn Statsinger,1927,2016
 1273,,Q99541346,Alexander R. Stavenitz,1901,1960
 1274,,Q5065510,Cesare Stea,1893,1960
@@ -764,13 +764,13 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 12315,,,Charles Stein,0,0
 4688,500047421,Q63241929,Michael Steiner,1945,0
 7734,500022058,Q3418301,Ralph Steiner,1899,1986
-7825,,Q55219826,Mark Steinmetz,1961,0
+7825,500467997,Q55219826,Mark Steinmetz,1961,0
 1279,,,Pat Steir,1940,0
 1280,500020533,Q375268,Frank Stella,1936,2024
 1281,500032250,Q1347418,Joseph Stella,1877,1946
 3494,500018067,Q20859502,Gary Stephan,1942,0
 1282,,,Leo Steppat,1910,1965
-1283,,Q15488004,Harry Sternberg,1904,2001
+1283,500055727,Q15488004,Harry Sternberg,1904,2001
 1284,500007206,Q436874,Hedda Sterne,1910,2011
 1285,500026464,Q3852444,Maurice Sterne,1878,1957
 1286,500018573,Q3608043,Albert Sterner,1863,1946
@@ -788,7 +788,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3923,,Q27132588,George Stillman,1921,1997
 10179,500126270,Q2173916,Rudolf Stingel,1956,0
 4316,500116168,Q15441839,Jessica Stockholder,1959,0
-4844,,Q1386090,Ezra Stoller,1915,2004
+4844,500008828,Q1386090,Ezra Stoller,1915,2004
 1294,500104576,Q63079434,Sylvia Stone,1928,0
 1295,500015423,Q3110301,John Storrs,1885,1956
 9192,,,Lou Stoumen,1918,1991
@@ -812,13 +812,13 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1302,,,James Sullivan,1939,0
 3471,500017683,Q5295201,Donald Sultan,1951,0
 7933,500002461,Q1806120,Larry Sultan,1946,2009
-1303,,Q5044573,Carol Summers,1925,2016
+1303,500021858,Q5044573,Carol Summers,1925,2016
 13760,,,Emily Sundblad,1977,1977
 1304,500098007,Q6143846,James Surls,1943,0
 9255,500122807,Q3817408,Eve Sussman,1961,0
 4584,,,Edward Suydam,1885,1940
 12821,,,Erica Svec,1973,0
-11261,,Q1666908,Ricky Swallow,1974,0
+11261,500196078,Q1666908,Ricky Swallow,1974,0
 9736,,Q6755904,Marc Swanson,1969,0
 1305,500042109,Q7399671,Sahl Swarz,1912,2004
 9217,500122866,Q5388186,Erick Swenson,1972,0
@@ -2344,7 +2344,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4856,500333199,Q27077641,Daze,1962,0
 9477,500037034,Q6209452,Joe Deal,1947,2010
 7852,500332868,Q3498535,Stephen Dean,1968,0
-9228,,,Sue DeBeer,1973,0
+9228,500122428,Q2363427,Sue de Beer,1973,0
 4984,500095793,Q2475981,Roy DeCarava,1919,2009
 334,,Q43129367,Peter Dechar,1942,0
 335,,Q63014179,Lindsey Decker,1923,1994
@@ -3471,7 +3471,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17724,,,Postcommodity,2007,0
 18535,,Q107436373,Guadalupe Maravilla,1976,0
 13714,500373008,Q16200002,Simone Leigh,1967,0
-19095,,Q77348525,Naotaka Hiro,1972,0
+19095,500463869,Q77348525,Naotaka Hiro,1972,0
 19092,500344047,Q469449,Ruth Orkin,1921,1985
 19030,,Q5076816,Charles Dellschau,1830,1923
 19139,500471138,Q6761759,Mariah Robertson,1975,0
@@ -3479,9 +3479,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 14406,500475069,Q23664327,Park McArthur,1984,0
 17362,500073057,Q6709060,Lynn Hershman Leeson,1941,0
 19184,,Q99491735,José Lerma,1971,0
-19180,,,Anita Steckel,0,0
+19180,500331127,Q4765643,Anita Steckel,0,0
 19173,,Q19792476,Dan Asher,1947,2010
-15095,,Q879363,Bjarne Melgaard,1967,0
+15095,500120946,Q879363,Bjarne Melgaard,1967,0
 19174,500490905,Q5231302,David Benjamin Sherry,1981,0
 17511,,,Lily Jue Sheng,1987,0
 17608,,,Mike Sidnam,1987,0
@@ -3575,9 +3575,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19166,,,Helen Maris,0,0
 19168,,,Phyllis Skolnick,1925,2011
 19167,,,Milton Wynne,0,0
-16745,,Q19860808,Thomas Eggerer,1963,0
+16745,500116139,Q19860808,Thomas Eggerer,1963,0
 19760,,Q16732509,Jeff Mermelstein,1957,0
-10245,,Q21292957,Kota Ezawa,1969,0
+10245,500129330,Q21292957,Kota Ezawa,1969,0
 18771,,,Keegan Monaghan,1986,1986
 19739,500126188,Q21993968,Duncan Hannah,1952,2022
 18808,,Q81213139,Ragen Moss,1978,0
@@ -3587,10 +3587,10 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18973,,,Pat Phillips,1987,0
 19348,,,Peter Tomka,0,0
 19503,500002434,Q55192,Gertrude Abercrombie,1909,1977
-17728,,,Tuan Andrew Nguyen,0,0
+17728,500470771,Q27978847,Tuan Andrew Nguyen,0,0
 17230,500114910,Q706475,Steve McQueen,1969,0
 19344,,,Ariel Goldberg,0,0
-14992,,,A.L. Steiner,0,0
+14992,500471163,Q16197272,A.L. Steiner,0,0
 19527,,Q28748014,Danielle Dean,1982,0
 18809,,Q111490819,WangShui,1986,0
 18092,,Q107539990,Margaret French,1906,1998
@@ -3601,8 +3601,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19647,,Q42156278,Shawn Walker,1940,0
 19646,,,Herb Robinson,0,0
 18619,500487556,Q6763068,Marie Watt,1967,0
-19643,,,Anthony Barboza,0,0
-19644,,Q28871217,Beuford Smith,1941,0
+19643,500124748,Q2852803,Anthony Barboza,0,0
+19644,500467583,Q28871217,Beuford Smith,1941,0
 19640,500012591,Q86078,Anni Albers,1899,1994
 19251,,,Jeanette Mundt,1982,1982
 19023,,,Heji Shin,1983,0
@@ -3646,7 +3646,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19748,500057709,Q6782527,Masami Teraoka,1936,0
 18615,,,Elle Pérez,1989,1989
 19860,,Q7610658,Tabboo!,1959,0
-17711,,,Leigh Ledare,0,0
+17711,500475363,Q895765,Leigh Ledare,0,0
 19808,500450273,Q29834919,Amy Sherald,1973,0
 19790,500490696,Q3624835,Wadsworth Jarrell,1929,0
 19742,,Q62036483,Muriel Hasbun,1961,0
@@ -3665,18 +3665,18 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18923,,Q20936681,Bendor Mark,1912,1995
 20115,,Q47501257,Aria Dean,1993,0
 20111,,,Jana Vander Lee,1945,0
-19892,,Q16729684,Claudia Hart,1955,0
+19892,500191212,Q16729684,Claudia Hart,1955,0
 19104,500490793,Q62128026,Troy Michie,1985,0
-19012,,Q675742,Cyprien Gaillard,1980,0
+19012,500294469,Q675742,Cyprien Gaillard,1980,0
 20141,500487347,Q21572879,Andrea Carlson,1979,0
 19842,,,Nicole Soto Rodríguez,1985,0
 20149,,Q65030584,Rodrigo Valenzuela,1982,0
 18902,,Q1685716,Alfredo Ramos Martínez,1871,1946
 20133,,Q5496902,Freddy Rodríguez,1945,2022
 20156,,,Martine Gutierrez,0,0
-20197,,,Ebony G. Patterson,0,0
+20197,500451073,Q16221507,Ebony G. Patterson,0,0
 17808,500294252,Q21985396,Eamon Ore-Giron,1973,0
-15056,,Q27244476,Kevin Beasley,1985,0
+15056,500472640,Q27244476,Kevin Beasley,1985,0
 14778,500091946,Q20937927,Dona Nelson,1947,0
 20175,,,Orian Barki,1985,0
 20101,,,For Freedoms,2016,0
@@ -3735,8 +3735,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20499,,Q110228998,Hiram Maristany,1945,2022
 20249,500335869,Q7146049,Patrick Angus,1953,1992
 20443,,Q115868668,Diane Severin Nguyen,1990,0
-20373,,,Rick Bartow,0,0
-20494,,,Allen Frame,0,0
+20373,,Q7331224,Rick Bartow,0,0
+20494,500376838,Q110234911,Allen Frame,0,0
 19364,500356250,Q16843235,Nicholas Galanin,1979,0
 20490,500523429,Q117336772,Joey Terrill,1955,0
 17401,,,Dora Budor,1984,0
@@ -3746,14 +3746,14 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19434,500523416,Q88516746,Guadalupe Rosales,1980,0
 19873,,Q55236336,Rayyane Tabet,1983,0
 19866,,Q111508358,Buck Ellison,1987,0
-20616,,,Lew Thomas,0,0
+20616,500098329,Q42429326,Lew Thomas,0,0
 14656,,Q120867946,Trevor Shimizu,1978,0
 20243,,Q2405602,Terry Haass,1923,2016
-20242,,,Teresa D’Amico Fourpome,1914,1965
+20242,,Q111824218,Teresa D’Amico Fourpome,1914,1965
 20396,,,Marilyn Lerner,1942,0
 20457,500355608,,Firelei Báez,1981,0
 20503,,Q123258679,Ilana Savdie,1986,0
-11210,,Q55219682,David Reinfurt,1971,0
+11210,500294259,Q55219682,David Reinfurt,1971,0
 20593,,Q42315160,Kenji Nakahashi,1947,2017
 20433,,,Wakeah Jhane,1995,1995
 20432,,,Votan Henriquez,1974,1974
@@ -3839,7 +3839,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20904,,Q119728621,Theo Triantafyllidis,1988,0
 19590,500781868,Q43384735,Kahlil Joseph,1981,0
 19990,,,Kandis Williams,1985,0
-10981,,Q16223357,Adam Pendleton,1984,0
+10981,500472172,Q16223357,Adam Pendleton,1984,0
 20507,,,Moved by the Motion,2013,0
 20789,,Q28860123,Sadie Barnette,1984,0
 20834,500004656,Q22086634,Roberto Gil de Montes,1950,0
@@ -3910,7 +3910,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9925,,,Jillian McDonald,0,0
 15261,,,JODI,0,0
 8252,,,Mark Daggett,0,0
-8240,,,John Klima,0,0
+8240,,Q6243274,John Klima,0,0
 8939,,,Jonah Brucker-Cohen,0,0
 8519,,,Joshua Davis,0,0
 9181,,Q4973186,Brody Condon,1974,0
@@ -3919,7 +3919,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9670,,,Paul Catanese,1975,0
 8178,,,C404,0,0
 10003,,,Sindee Nakatani,0,0
-8170,,Q6776103,Martin Wattenberg,1970,0
+8170,500472796,Q6776103,Martin Wattenberg,1970,0
 9518,,,Brooke Singer,0,0
 10108,,,Adrianne Wortzel,0,0
 18438,,,Elisa Giardina Papa,0,0
@@ -3969,11 +3969,11 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20914,,,Larva Labs,2005,0
 21296,,,Toshiko Uchima,1918,2000
 20618,,,Garvin Sierra Vega,1977,0
-20287,,,Miyoko Ito,0,0
+20287,500034483,Q20880123,Miyoko Ito,0,0
 21212,,Q127328513,Oscar yi Hou,1998,0
-21229,,,Carrie Yamaoka,0,0
+21229,,Q106262255,Carrie Yamaoka,0,0
 21230,,Q111945806,Reynaldo Rivera,0,0
-21231,,,Carla Williams,0,0
+21231,,Q28855064,Carla Williams,0,0
 21075,,Q5026623,Camille Billops,1933,2019
 21072,,Q106318016,Ruth Powers Ortlieb,1893,1982
 21019,,Q28661842,César A. Martínez,1944,0
@@ -3993,8 +3993,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21269,,Q105090611,Karsten Creightney,1976,0
 18921,500335852,Q4883604,Belle Baranceanu,1902,1988
 19968,500474376,Q28839817,Titus Kaphar,1976,0
-21373,,,Jumana Manna,0,0
-17420,,,Peter Bradley,0,0
+21373,500475519,Q50379234,Jumana Manna,0,0
+17420,500034450,,Peter Bradley,0,0
 21046,,Q116677409,Seba Calfuqueo,1991,0
 21283,,,Deborah R. Grayson,1967,0
 21291,,,Tanekeya Word,1983,0
