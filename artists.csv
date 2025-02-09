@@ -2294,7 +2294,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4110,500086231,,Barbara Ess,1948,2021
 5445,500125880,Q1663640,Inka Essenhigh,1969,0
 4478,500118233,Q5952680,Tomás Esson,1963,0
-404,,,Richard Estes,1932,0
+404,,Q2149421,Richard Estes,1932,0
 7698,500471946,Q55218613,Lee Etheredge IV,1968,0
 10884,500129329,Q7357521,Roe Ethridge,1969,0
 405,,Q5372657,Emlen Etting,1905,1993
@@ -2325,7 +2325,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4765,500037020,Q962520,Bruce Davidson,1933,0
 323,500011498,Q1641647,Jo Davidson,1883,1952
 324,500013464,Q708502,Arthur B. Davies,1862,1928
-8994,500011500,,Kenneth Davies,1925,0
+8994,500011500,Q106588660,Kenneth Davies,1925,0
 325,500031816,Q20668440,Bradley Darius Davis,1942,0
 4486,500116219,Q5301405,Douglas Davis,1933,2014
 326,500047927,Q37041530,Emma Lu Davis,1905,1988
@@ -2729,7 +2729,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5387,500042571,Q5649087,Hannelore Baron,1926,1987
 8406,,,Burt Barr,1943,2016
 62,500335437,Q71833465,Victoria Barr,1937,0
-14306,500053936,,Robert Barry,1936,0
+14306,500053936,Q2156840,Robert Barry,1936,0
 7348,500034312,Q21985006,James Barsness,1954,0
 8220,500020064,Q3431473,Richmond Barthé,1901,1989
 64,500019009,Q21467276,Frances Barth,1946,0
@@ -2915,7 +2915,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 165,500018752,Q7149478,Paul Brach,1924,2007
 166,500027905,Q7342289,Robert Brackman,1898,1980
 10212,500116642,Q16193971,Mark Bradford,1961,0
-10809,500126490,,David Bradley,1954,0
+10809,500126490,Q16751178,David Bradley,1954,0
 11205,500129189,Q6208754,Joe Bradley,1975,0
 9215,500122418,Q7538895,Slater Bradley,1975,0
 2641,500473303,Q5231661,David Bradshaw,1944,0
@@ -3107,7 +3107,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 16606,500632970,Q99508112,Ulrik Heltoft,1973,0
 12586,500333292,Q4861080,Barkley L. Hendricks,1945,2017
 11181,500068090,Q5534660,Geoffrey Hendricks,1931,0
-11182,,,Jon Hendricks,1943,0
+11182,,Q112408961,Jon Hendricks,1943,0
 597,500005486,Q724860,Robert Henri,1865,1929
 600,500054282,Q52150782,Harry Hering,1887,1967
 10152,,,Adriane Herman,1966,0
