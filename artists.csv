@@ -19,7 +19,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8612,500346032,Q3481792,Shelby Lee Adams,1950,0
 15098,500330027,Q7704039,Terry Adkins,1953,2014
 4,500001484,Q61965584,Lee Adler,1934,0
-5,,Q7410733,Samuel M. Adler,1898,1979
+5,500007226,Q7410733,Samuel M. Adler,1898,1979
 14986,500473649,Q440316,Etel Adnan,1925,2021
 6,500028575,Q21809634,Nicholas Africano,1948,0
 7,500071003,Q7172472,Peter Agostini,1913,1993
@@ -396,7 +396,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9034,,,Frederic Taubes,1900,1991
 16197,,Q15499401,Lenore G. Tawney,1907,2007
 7618,500043257,Q4453757,Al Taylor,1948,1999
-14238,500333777,,Henry Taylor,1958,0
+14238,500333777,Q43138652,Henry Taylor,1958,0
 1318,500050992,Q3341685,Henry Fitch Taylor,1853,1925
 1319,500049512,Q53117681,John W. Taylor,1897,1983
 1320,500041102,Q7240574,Prentiss Hottel Taylor,1907,1991
@@ -680,8 +680,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9033,,Q84561655,Moishe Smith,1929,1993
 1238,,Q515745,Pamela Colman Smith,1878,1951
 4437,500350488,Q557,Patti Smith,1946,0
-3657,500097417,,Philip Smith,1952,0
-11306,500018299,,Richard Smith,1931,0
+3657,500097417,Q7184396,Philip Smith,1952,0
+11306,500018299,Q2150623,Richard Smith,1931,0
 13085,,,Rupert Jasen Smith,0,0
 4686,500332282,Q43137720,Seton Smith,1955,0
 14091,500451080,Q21070420,Shinique Smith,1971,0
@@ -3344,7 +3344,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17825,,,Student Mobilization Committee to End the War in Vietnam,0,0
 17956,,,Synergisms,0,0
 18044,,,"Paul Szep, 1941-",1941,0
-15396,500091555,Q16145702,Walter Robinson,1950,0
+15396,500091555,Q16145702,Walter Robinson,1950,2025
 7468,,,Red Rodriguez,0,0
 17934,,,Robert L. Ross,0,0
 17245,500474779,Q68572593,Cameron Rowland,1988,0
@@ -3509,7 +3509,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18662,500061264,Q50331002,Rachel bas-Cohain,1937,1982
 18842,500274766,Q13560765,Teresita Fernández,1968,0
 18406,500123005,Q55235675,Carolina Caycedo,1978,0
-18616,,Q19664324,Christine Sun Kim,1980,0
+18616,"",Q19664324,Christine Sun Kim,1980,0
 19027,,,Eva Mattes,1976,0
 19028,,,Franco Mattes,1976,0
 18122,,Q73030216,Willa Nasatir,1990,0
@@ -3542,7 +3542,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 12076,500294142,Q6681667,Lorraine O'Grady,1934,2024
 18552,,Q62065026,Livia Corona Benjamin,1975,0
 7939,500294241,Q28050387,Tony Cokes,1956,0
-18966,,Q28861763,Jennifer Packer,1984,0
+18966,500782027,Q28861763,Jennifer Packer,1984,0
 17310,,Q26251370,Alex Da Corte,1980,0
 17421,500470467,Q6167994,Jayson Musson,1977,0
 19387,,Q2311177,Devonté Hynes,1985,0
@@ -3965,7 +3965,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20942,,Q7362232,Roman Verostko,1929,0
 20946,500020843,Q325184,Siah Armajani,1939,2020
 21312,500334793,Q20715407,Vivian Browne,1929,1993
-20473,,,Awilda Sterling-Duprey,1947,0
+20473,,Q29447304,Awilda Sterling-Duprey,1947,0
 20914,,,Larva Labs,2005,0
 21296,,,Toshiko Uchima,1918,2000
 20618,,,Garvin Sierra Vega,1977,0
@@ -3994,7 +3994,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18921,500335852,Q4883604,Belle Baranceanu,1902,1988
 19968,500474376,Q28839817,Titus Kaphar,1976,0
 21373,500475519,Q50379234,Jumana Manna,0,0
-17420,500034450,,Peter Bradley,0,0
+17420,500034450,Q20090332,Peter Bradley,0,0
 21046,,Q116677409,Seba Calfuqueo,1991,0
 21283,,,Deborah R. Grayson,1967,0
 21291,,,Tanekeya Word,1983,0
@@ -4019,5 +4019,5 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21554,500098132,Q540866,Jules Engel,1909,2003
 21549,,,Carlo Vitale,0,0
 21555,,Q117860106,cameron clayborn,1992,0
-13392,,Q29035350,Julie Becker,1972,2016
+13392,500330200,Q29035350,Julie Becker,1972,2016
 21275,,Q19879231,Danielle Orchard,1985,0
