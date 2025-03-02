@@ -3509,7 +3509,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18662,500061264,Q50331002,Rachel bas-Cohain,1937,1982
 18842,500274766,Q13560765,Teresita Fernández,1968,0
 18406,500123005,Q55235675,Carolina Caycedo,1978,0
-18616,"",Q19664324,Christine Sun Kim,1980,0
+18616,,Q19664324,Christine Sun Kim,1980,0
 19027,,,Eva Mattes,1976,0
 19028,,,Franco Mattes,1976,0
 18122,,Q73030216,Willa Nasatir,1990,0
@@ -3846,90 +3846,90 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20838,500336333,Q28223041,Suzanne Jackson,1944,0
 20781,500332587,Q6377196,Kathy Butterly,1963,0
 20733,,Q120734585,Dakota Mace,1991,0
-8253,,,Andy Deck,0,0
-9443,,,Ken Perlin,0,0
+8253,,,Andy Deck,1968,0
+9443,,,Ken Perlin,1957,0
 9201,,,Scott Paterson,1969,0
 20271,,Q7132173,Paolo Cirio,1979,0
 9467,,,Victor Liu,0,0
 14410,,,Goldin+Senneby,0,0
 8649,,,Duane Whitehurst,0,0
-9483,,,Andrea Polli,0,0
-10000,,,Warren Sack,0,0
+9483,,Q16200827,Andrea Polli,1968,0
+10000,,,Warren Sack,1962,0
 8341,,,Amy Alexander,0,0
 8244,500290615,Q19012176,Jennifer McCoy,1968,0
 8434,,,Jody Zellen,0,0
 8854,,,David Crawford,1970,2009
-20784,,,Mimi Ọnụọha,0,0
+20784,,,Mimi Ọnụọha,1989,0
 9727,500114636,Q6387683,Ken Goldberg,1961,0
-8450,,,Golan Levin,0,0
-18614,,,Carla Gannis,0,0
+8450,500122521,Q5578394,Golan Levin,1972,0
+18614,,,Carla Gannis,1970,0
 9202,,,Julian Bleecker,1966,0
 20185,,,LaTurbo Avedon,1988,0
-8923,,,Natalie Bookchin,0,0
+8923,,Q6968129,Natalie Bookchin,1962,0
 9876,,,Barbara Lattanzi,0,0
 8648,,,Brion Moss,0,0
-17024,,,Will Pappenheimer,0,0
+17024,,Q8003008,Will Pappenheimer,1954,0
 8243,,,Tina Laporta,0,0
 8203,500355836,Q3294193,Mark Napier,1961,0
 15323,,,Jemma Hostetler,0,0
 9801,,,Ursula Endlicher,0,0
-20783,,,Peter Burr,0,0
+20783,,Q33977673,Peter Burr,1980,0
 9728,,,Alpha Lab,0,0
 8340,,,Mendi + Keith Obadike,0,0
-18217,,,eteam,0,0
-18119,,,Allard van Hoorn,0,0
+18217,,,eteam,2001,0
+18119,500721449,,Allard van Hoorn,1968,0
 9667,,,Gicheol Lee,0,0
 8449,,,Camille Utterback,0,0
 19862,,,Tega Brain,1982,0
-15259,,,R. Luke Dubois,0,0
-21063,,,Nancy Baker Cahill,0,0
-15441,,,Futurefarmers,0,0
-8181,,,Ben Fry,1975,1975
-8981,,,Motomichi Nakamura,0,0
-20272,,,Ryan Kuo,0,0
-9195,,,Ricardo Miranda Zúñiga,0,0
+15259,,Q7273818,R. Luke Dubois,1975,0
+21063,,Q75452977,Nancy Baker Cahill,1970,0
+15441,,,Futurefarmers,1995,0
+8181,,Q4888685,Benjamin Fry,1975,0
+8981,500638073,Q128792838,Motomichi Nakamura,1972,0
+20272,,,Ryan Kuo,1982,0
+9195,,Q7322735,Ricardo Miranda Zúñiga,1971,0
 8206,,,Zhang Ga,0,0
 8448,,,Scott Snibbe,0,0
 19861,,,Sam Lavigne,1981,0
-19546,,,Michael Mandiberg,0,0
+19546,,Q6832483,Michael Mandiberg,1977,0
 8451,,,William Bradford Paley,0,0
 8176,,,Robert Nideffer,1964,0
 8245,500290617,Q19012178,Kevin McCoy,1967,0
-20911,,,Rick Silva,0,0
-8447,,,Alex Galloway,0,0
+20911,,,Rick Silva,1977,0
+8447,,,Alex Galloway,1974,0
 10615,,,Myron Turner,0,0
 8980,500123007,Q3482619,Shu Lea Cheang,1954,0
 9665,,,Jin-Yo Mok,0,0
-10286,,,George Legrady,0,0
+10286,500067943,Q3101713,George Legrady,1950,0
 8179,,,Yoshi Sodeoka,0,0
 8264,,,Lew Baldwin,0,0
 15257,,,Stephanie Rothenberg,0,0
 9517,,,Jamie Schulte,0,0
 10614,,,Abe Linkoln & Marisa Olson,0,0
-20683,,,Amelia Winger-Bearskin,0,0
-9925,,,Jillian McDonald,0,0
-15261,,,JODI,0,0
+20683,,,Amelia Winger-Bearskin,1979,0
+9925,,Q6193154,Jillian McDonald,1971,0
+15261,,,JODI,1994,0
 8252,,,Mark Daggett,0,0
 8240,,Q6243274,John Klima,0,0
 8939,,,Jonah Brucker-Cohen,0,0
 8519,,,Joshua Davis,0,0
 9181,,Q4973186,Brody Condon,1974,0
-19205,,,exonemo,0,0
+19205,,,exonemo,1996,0
 9084,,,Maciej Wisniewski,0,0
 9670,,,Paul Catanese,1975,0
 8178,,,C404,0,0
 10003,,,Sindee Nakatani,0,0
 8170,500472796,Q6776103,Martin Wattenberg,1970,0
-9518,,,Brooke Singer,0,0
-10108,,,Adrianne Wortzel,0,0
-18438,,,Elisa Giardina Papa,0,0
+9518,,,Brooke Singer,1979,0
+10108,,Q17143715,Adrianne Wortzel,1941,0
+18438,,,Elisa Giardina Papa,1979,0
 8239,,,G.H. Hovagimyan,0,0
 8647,,,Adam Chapman,0,0
-12350,,,ecoarttech,0,0
+12350,,,ecoarttech,2005,0
 8254,,,Eduardo Navas,0,0
-8242,,,Cary Peppermint,0,0
+8242,,Q5047648,Cary Peppermint,1970,0
 15352,,,Fang-yu Lin,0,0
-10002,,,Jeremy Hight,0,0
+10002,,,Jeremy Hight,0,2022
 10377,,Q16186758,Marc Lafia,1955,0
 8202,,Q6760685,Margot Lovejoy,1930,2019
 8444,,,Christopher Fahey,0,0
@@ -3937,20 +3937,20 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8238,,,MTAA,0,0
 15255,,,Jennifer Crowe,1974,0
 9802,,,Diane Ludin,0,0
-9999,,,Erik Loyer,0,0
+9999,,,Erik Loyer,1972,0
 9107,,,Peter Horvath,1961,0
-19594,,,Kristin Lucas,0,0
-8646,,,Noah Wardrip-Fruin,0,0
+19594,500114725,Q20657131,Kristin Lucas,1968,0
+8646,,Q7045465,Noah Wardrip-Fruin,1972,0
 15337,,,C5 Corporation,0,0
-20604,,,Sara Ludy,0,0
+20604,,,Sara Ludy,1980,0
 10001,,Q5110834,Christina McPhee,1954,0
 9516,,,Beatriz daCosta,1974,2012
 15260,,,Katherine Moriwaki,0,0
 8241,,,Wolfgang Staehle,0,0
-20022,,,UBERMORGEN,0,0
+20022,,,UBERMORGEN,1995,0
 20312,500294222,Q19560478,Christina Fernandez,1965,0
-,,Q16203447,Holly Herndon,1980,""
-,,Q113041419,Mat Dryhurst,1984,""
+21319,,Q16203447,Holly Herndon,1980,""
+21320,,Q113041419,Mat Dryhurst,1984,""
 21074,,Q20683904,Zoë Buckman,1985,0
 21011,,Q123363957,Leslie Martinez,1985,0
 20901,500345058,Q69448330,Jason Lazarus,1975,0
@@ -4007,8 +4007,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21253,500196042,Q7313016,Renée Stout,1958,0
 10284,500126014,Q329092,Kehinde Wiley,1977,0
 21314,500118194,Q19842101,Rafael Soriano,1920,2015
-,,,Maya Man,1996,""
-,,Q55455463,Ashley Zelinskie,1986,""
+21576,,,Maya Man,1996,0
+21575,,Q55455463,Ashley Zelinskie,1986,""
 8560,500476100,Q63230319,Martha Jane Pettway,1898,2003
 19616,,,Steven Fragale,1984,0
 21047,,,Lotus L. Kang,1985,0
