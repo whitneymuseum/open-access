@@ -750,7 +750,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11248,500294304,Q16197269,Frances Stark,1967,0
 4818,,Q43138051,Joseph Stashkevetch,1958,0
 1272,500467971,Q77324784,Andrew Stasik,1932,0
-17192,,Q21809601,Evelyn Statsinger,1927,2016
+17192,500782773,Q21809601,Evelyn Statsinger,1927,2016
 1273,,Q99541346,Alexander R. Stavenitz,1901,1960
 1274,,Q5065510,Cesare Stea,1893,1960
 4244,500332014,,Hugh Steers,1963,1995
@@ -3028,7 +3028,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 556,500088898,Q63032237,Susan Hall,1943,0
 557,500009174,,Samuel Halpert,1884,1930
 4566,500115963,Q4766433,Ann Hamilton,1956,0
-4222,500022990,Q107539979,Juan Hamilton,1945,0
+4222,500022990,Q107539979,Juan Hamilton,1945,2025
 4366,500330521,Q55218874,Jonathan Hammer,1960,0
 3963,500198679,Q6152343,Jane Hammond,1950,0
 3719,500114717,Q320846,David Hammons,1943,0
@@ -3509,12 +3509,12 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18662,500061264,Q50331002,Rachel bas-Cohain,1937,1982
 18842,500274766,Q13560765,Teresita Fernández,1968,0
 18406,500123005,Q55235675,Carolina Caycedo,1978,0
-18616,,Q19664324,Christine Sun Kim,1980,0
+18616,500782908,Q19664324,Christine Sun Kim,1980,0
 19027,,,Eva Mattes,1976,0
 19028,,,Franco Mattes,1976,0
 18122,,Q73030216,Willa Nasatir,1990,0
 18410,,Q19897581,Lena Henke,1982,0
-18617,,Q29958136,Deborah Roberts,1962,0
+18617,500782788,Q29958136,Deborah Roberts,1962,0
 18620,,Q50738785,Jean Conner,1933,0
 18586,500488754,Q63013144,Mira Dancy,1979,0
 18464,,Q3058959,Esther Bubley,1921,1998
@@ -3543,7 +3543,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18552,,Q62065026,Livia Corona Benjamin,1975,0
 7939,500294241,Q28050387,Tony Cokes,1956,0
 18966,500782027,Q28861763,Jennifer Packer,1984,0
-17310,,Q26251370,Alex Da Corte,1980,0
+17310,500782812,Q26251370,Alex Da Corte,1980,0
 17421,500470467,Q6167994,Jayson Musson,1977,0
 19387,,Q2311177,Devonté Hynes,1985,0
 19117,500781871,Q56222298,Christina Quarles,1985,0
@@ -3584,7 +3584,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19649,500126170,Q5470497,Forrest Myers,1941,0
 17568,500451081,Q19664827,Martine Syms,1988,0
 19040,500490587,Q61895632,Janiva Ellis,1987,0
-18973,,,Pat Phillips,1987,0
+18973,,Q110909947,Pat Phillips,1987,0
 19348,,,Peter Tomka,0,0
 19503,500002434,Q55192,Gertrude Abercrombie,1909,1977
 17728,500470771,Q27978847,Tuan Andrew Nguyen,0,0
@@ -3624,7 +3624,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19187,,,Curran Hatleberg,1982,1982
 19698,500655797,Q26695649,Adger Cowans,1936,0
 19726,500056036,Q16115301,Maren Hassinger,1947,0
-17809,,Q62056469,Gala Porras-Kim,1984,0
+17809,500782829,Q62056469,Gala Porras-Kim,1984,0
 19645,,Q5735332,Herbert Randall,1936,0
 19015,,,Madeline Hollander,1986,0
 19043,500451121,Q63117801,Matthew Angelo Harrison,1989,0
@@ -3658,7 +3658,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20120,500124474,Q3530288,Todd Webb,1905,2000
 19894,,,Kenny Rivero,1981,0
 19886,,Q125543451,Katherine Hubbard,1981,0
-19858,,Q60678086,Louis Fratino,1993,0
+19858,500782784,Q60678086,Louis Fratino,1993,0
 19329,,Q56073537,Diedrick Brackens,1989,0
 12047,500356184,Q22669181,Noah Davis,1983,2015
 20108,,Q93600912,Adele Watson,1873,1947
@@ -3681,7 +3681,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20175,,,Orian Barki,1985,0
 20101,,,For Freedoms,2016,0
 20236,,,Bruce and Norman Yonemoto,1975,1999
-20233,,Q19878321,Sayre Gomez,1982,0
+20233,500782804,Q19878321,Sayre Gomez,1982,0
 19002,,Q23018046,Morehshin Allahyari,1985,0
 18240,,Q27052162,Ephraim Asili,1979,0
 20137,,Q15429246,Luis Frangella,1944,1990
@@ -3838,7 +3838,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10369,500294262,Q5139737,Coco Fusco,1960,0
 20904,,Q119728621,Theo Triantafyllidis,1988,0
 19590,500781868,Q43384735,Kahlil Joseph,1981,0
-19990,,,Kandis Williams,1985,0
+19990,500782774,,Kandis Williams,1985,0
 10981,500472172,Q16223357,Adam Pendleton,1984,0
 20507,,,Moved by the Motion,2013,0
 20789,,Q28860123,Sadie Barnette,1984,0
@@ -3956,7 +3956,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20901,500345058,Q69448330,Jason Lazarus,1975,0
 20900,,,eric fleischauer,1977,0
 20983,,,Kyung-Me,1991,0
-20532,,Q110781678,Rose Salane,1992,0
+20532,500782830,Q110781678,Rose Salane,1992,0
 21021,500001306,Q235063,Maya Lin,1959,0
 20943,,Q4859183,Barbara Nessim,1939,0
 21029,,Q28871233,Arthur Simms,1961,0
@@ -4009,6 +4009,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21314,500118194,Q19842101,Rafael Soriano,1920,2015
 21576,,,Maya Man,1996,0
 21575,,Q55455463,Ashley Zelinskie,1986,0
+21637,,,Sawad Brooks,0,0
 8560,500476100,Q63230319,Martha Jane Pettway,1898,2003
 19616,,,Steven Fragale,1984,0
 21047,,,Lotus L. Kang,1985,0
