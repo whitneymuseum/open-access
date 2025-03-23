@@ -1001,7 +1001,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 988,500024530,Q105883018,Tommy Dale Palmore,1945,0
 14079,500125646,Q1351201,Gary Panter,1950,0
 7333,500037044,Q1708754,Tod Papageorge,1940,0
-989,,Q21286764,Fred Papsdorf,1887,1978
+989,500058308,Q21286764,Fred Papsdorf,1887,1978
 13751,500114912,Q1443521,Jorge Pardo,1963,0
 990,500082773,Q52151127,Harold Paris,1925,1979
 16942,,Q18669968,Charlotte Park,1918,2010
@@ -1524,7 +1524,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 924,,Q7451573,Seong Moy,1921,2013
 925,500018929,Q21809594,George Mueller,1929,0
 3329,500118740,Q7610053,Stephen Mueller,1947,2011
-11867,,Q5047199,Carter Mull,1977,0
+11867,500457248,Q5047199,Carter Mull,1977,0
 13728,,,John Mullen III,0,0
 9286,500122541,Q21743040,Dave Muller,1964,0
 926,500001212,Q6149574,Jan Müller,1922,1958
@@ -1778,7 +1778,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3331,500105598,Q6810748,Mel Kendrick,1949,0
 691,,,M. Kennedy,0,0
 692,500194176,Q18631201,Adaline Kent,1900,1957
-10836,,Q5170723,Sister Corita Kent,1918,1986
+10836,500014156,Q5170723,Sister Corita Kent,1918,1986
 4941,,Q63028250,Jane Kent,1952,0
 694,500006820,Q114405,Rockwell Kent,1882,1971
 17182,,Q63035850,Caitlin Keogh,1982,0
