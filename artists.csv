@@ -1046,7 +1046,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1010,,,Luis Perelman,1942,0
 4703,500041571,Q324062,Gilles Peress,1946,0
 14107,500393848,Q57982374,Enoc Perez,1967,0
-1011,,,Harley Perkins,1883,1964
+1011,,Q131145461,Harley Perkins,1883,1964
 12248,,,Jeffrey Perkins,1941,0
 1012,500334075,Q16104948,Robert Perless,1938,0
 1013,500024499,Q17446201,Bernard Perlin,1918,2014
@@ -1056,7 +1056,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8653,,,Bill Perlmutter,1932,0
 1014,,,Herbert Perr,1941,0
 1015,500022964,Q22086831,Van Dearing Perrine,1869,1955
-10954,,,Serena Perrone,1979,0
+10954,,Q63090788,Serena Perrone,1979,0
 1016,500053892,Q105891375,Simmons Persons,1906,0
 7432,500469709,Q63090820,Dolly Perutz,1908,1979
 1017,,Q970016,Gabor Peterdi,1915,2001
@@ -1254,7 +1254,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 948,500011208,Q7348036,Robert Nickle,1919,1980
 949,500053866,Q6410222,Kimon Nicolaides,1892,1938
 4558,500116272,Q16149846,Nic Nicosia,1951,0
-950,,Q21938054,Henry Niese,1924,0
+950,,Q21938054,Henry Niese,1924,2016
 951,500064364,Q5566442,Gladys Nilsson,1940,0
 11193,500097958,Q651376,Hermann Nitsch,1938,2022
 952,,Q1136448,Costantino Nivola,1911,1988
@@ -1315,7 +1315,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 831,500020522,Q472846,Conrad Marca-Relli,1913,2000
 4435,500116487,Q923306,Christian Marclay,1955,0
 7861,500128027,Q4790114,Ari Marcopoulos,1957,0
-832,,Q19594795,Marcia Marcus,1928,0
+832,,Q19594795,Marcia Marcus,1928,2025
 833,500118786,Q475416,Brice Marden,1938,2023
 4716,,,Helen Marden,1938,0
 834,500043689,Q50821447,Boris Margo,1902,1995
@@ -2060,7 +2060,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3577,500118770,Q4782029,April Gornik,1953,0
 9308,500102927,Q3181622,John Gossage,1946,0
 511,500004904,Q365388,Adolph Gottlieb,1903,1974
-3928,,,Esther Gottlieb,1907,1988
+3928,,Q118430522,Esther Gottlieb,1907,1988
 512,,,Harry Gottlieb,1885,1993
 3898,500037046,Q5373484,Emmet Gowin,1941,0
 12720,,,V. Bianca Grace,0,0
@@ -2261,7 +2261,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 391,,Q28704116,Luis Eades,1923,0
 392,500062882,Q4663562,Abastenia St. Leger Eberle,1878,1942
 10963,500128028,Q55218569,Shannon Ebner,1971,0
-16077,,Q4705094,Ala Ebtekar,1978,0
+16077,500782984,Q4705094,Ala Ebtekar,1978,0
 4254,500032926,,Kerr Eby,1889,1946
 5035,500462046,Q77325168,Ruth Eckstein,1916,2011
 393,500023943,Q324800,Don Eddy,1944,0
@@ -2431,7 +2431,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7614,500277136,Q19282017,Christoph Draeger,1965,0
 8216,500355860,Q6194715,Jim Drain,1975,0
 5205,500114627,Q42291937,James Drake,1946,0
-5310,,,Peter Drake,1957,0
+5310,500075070,,Peter Drake,1957,0
 17407,500333536,Q56025101,Louis H. Draper,1935,2002
 3709,,Q464044,Katherine Dreier,1877,1952
 376,500013191,Q2561038,Werner Drewes,1899,1985
@@ -2874,11 +2874,11 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 138,500028254,Q2990693,Peter Blume,1906,1992
 135,500026747,Q21416429,Jerome Blum,1884,1956
 12303,,Q472507,Robert Bly,1926,0
-139,,Q7459136,Seymour Boardman,1921,2005
+139,500043517,Q7459136,Seymour Boardman,1921,2005
 140,500032444,Q1485390,Mel Bochner,1940,2025
 141,500023042,Q1306009,Frank Boggs,1855,1926
 142,,Q7916212,Varujan Boghosian,1926,2020
-143,,Q15451740,Blythe Bohnen,1940,2022
+143,500030071,Q15451740,Blythe Bohnen,1940,2022
 144,500029376,Q4661858,Aaron Bohrod,1907,1992
 145,,Q21994032,Bruce Boice,1941,0
 14023,500355422,Q861946,Bill Bollinger,1939,1988
@@ -2934,7 +2934,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1585,500118800,Q57588,Marcel Breuer,1902,1981
 11207,500121241,Q3350134,Olaf Breuning,1970,0
 172,500481073,,Harvey Breverman,1934,0
-173,,Q8005909,William Brice,1921,2008
+173,500043537,Q8005909,William Brice,1921,2008
 7426,500040784,Q15487440,Marilyn Bridges,1948,0
 174,500529613,Q5392818,Ernest Briggs,1923,1984
 8812,,Q61927039,Deborah Bright,1950,0
@@ -3026,7 +3026,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4611,,,Frederick G. Hall,1879,1946
 555,,Q64514285,Joellen Hall,1921,2006
 556,500088898,Q63032237,Susan Hall,1943,0
-557,500009174,,Samuel Halpert,1884,1930
+557,500009174,Q7411613,Samuel Halpert,1884,1930
 4566,500115963,Q4766433,Ann Hamilton,1956,0
 4222,500022990,Q107539979,Juan Hamilton,1945,2025
 4366,500330521,Q55218874,Jonathan Hammer,1960,0
@@ -3300,7 +3300,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17414,,,Lorna Mills,0,0
 17833,,,Mobilization by the Antioch Bookplate Co.,0,0
 17990,,,Mark Morris,0,0
-17681,,Q1671106,Sam Moyer,1983,0
+17681,500720719,Q1671106,Sam Moyer,1983,0
 17927,,,Napalm Graphics,0,0
 17828,,,National Peace Action Coalition,0,0
 18037,,,Dennis Newell,0,0
@@ -3520,6 +3520,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18464,,Q3058959,Esther Bubley,1921,1998
 17669,,Q23415354,Samara Golden,1973,0
 ,,,Josh On and Futurefarmers,,
+14938,,Q15964396,Rebecca Morris,1969,0
 8111,500114571,Q3432140,Rina Banerjee,1963,0
 7491,500294230,,José Alvarez,1968,0
 18560,500114644,Q43132375,Kurt Kauper,1966,0
@@ -3834,7 +3835,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20471,,,Yiyo Tirado Rivera,1990,0
 20605,,Q123173976,Danielle De Jesus,1987,0
 20714,,,Cay Bahnmiller,1955,2007
-20734,,Q124785169,Mary Manning,1972,0
+20734,,Q124785169,Lee Mary Manning,1972,0
 10369,500294262,Q5139737,Coco Fusco,1960,0
 20904,,Q119728621,Theo Triantafyllidis,1988,0
 19590,500781868,Q43384735,Kahlil Joseph,1981,0
@@ -3951,6 +3952,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20312,500294222,Q19560478,Christina Fernandez,1965,0
 21319,,Q16203447,Holly Herndon,1980,0
 21320,,Q113041419,Mat Dryhurst,1984,0
+21039,,Q23008015,Nikita Gale,1983,0
+21042,500330189,Q28870361,Karyn Olivier,1968,0
+21061,500782835,Q29446450,Carmen Winant,1983,0
 21074,,Q20683904,Zoë Buckman,1985,0
 21011,,Q123363957,Leslie Martinez,1985,0
 20901,500345058,Q69448330,Jason Lazarus,1975,0
@@ -4007,6 +4011,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21253,500196042,Q7313016,Renée Stout,1958,0
 10284,500126014,Q329092,Kehinde Wiley,1977,0
 21314,500118194,Q19842101,Rafael Soriano,1920,2015
+20877,,,Amalia Mesa-Bains,1943,1943
 21576,,,Maya Man,1996,0
 21575,,Q55455463,Ashley Zelinskie,1986,0
 21637,,,Sawad Brooks,0,0
@@ -4022,3 +4027,12 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21555,,Q117860106,cameron clayborn,1992,0
 13392,500330200,Q29035350,Julie Becker,1972,2016
 21275,,Q19879231,Danielle Orchard,1985,0
+21469,,Q118541427,Karon Davis,1977,0
+21556,,Q7847717,Truman Lowe,1944,2019
+21564,500349004,Q6388257,Ken Ohara,0,0
+21498,,Q109282298,Issy Wood,1993,0
+21428,,Q65030035,Doron Langberg,1985,0
+20275,,,Piliāmo‘o,1989,0
+21535,,Q123347356,Christian Walker,1953,2003
+21509,,,Raque Ford,1986,0
+20959,500127466,Q5505013,Fritz Scholder,1937,2005
