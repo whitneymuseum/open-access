@@ -139,7 +139,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1465,,,Wilfrid Meynell Zogbaum,1915,1965
 1466,500021908,Q6760826,Marguerite Zorach,1887,1968
 1467,500003603,Q385941,William Zorach,1887,1966
-1468,,,Larry Zox,1936,2006
+1468,,Q6491348,Larry Zox,1936,2006
 9041,500010040,Q40229431,Zsissly,1897,1983
 1469,500082296,Q28395764,Barbara Marion Zucker,1940,0
 1470,500003839,Q20859283,Joe Zucker,1941,0
@@ -3465,7 +3465,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18589,500127714,Q6380307,Kay WalkingStick,1935,0
 14968,,Q117856,Channa Horwitz,1932,2013
 18518,,Q63185265,Clarissa Tossin,1973,0
-18525,,Q28870756,Meriem Bennani,1988,0
+18525,500782952,Q28870756,Meriem Bennani,1988,0
 18441,500065392,Q6524303,Leo Valledor,1936,1989
 18194,,Q110155512,Walter Zimmerman,1946,0
 17724,,,Postcommodity,2007,0
@@ -3490,7 +3490,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18516,,,Robin Graubard,1951,0
 18457,500779209,Q28860536,Kwame Brathwaite,1938,2023
 18511,,,Ronny Quevedo,1981,0
-17180,500356173,,Nina Chanel Abney,1982,0
+17180,500356173,Q27970540,Nina Chanel Abney,1982,0
 18289,,Q28871083,Diamond Stingily,1990,0
 13533,500352411,Q456923,Barbara Hammer,1939,2019
 18395,500333449,Q21290812,Mary Weatherford,1963,0
@@ -3701,7 +3701,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20164,,,LaJuné McMillian,1992,0
 19972,,Q106707441,Patrick Martinez,1980,0
 19274,,,Joe Minter,1943,1943
-19307,,Q6138298,James Luna,1950,2018
+19307,500127064,Q6138298,James Luna,1950,2018
 20244,500469294,Q114063192,Barbara Olmsted,1915,2013
 20266,500027090,Q6078751,Isami Doi,1903,1965
 20130,,Q24005639,Aaron Gilbert,1979,0
@@ -3878,7 +3878,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9728,,,Alpha Lab,0,0
 8340,,,Mendi + Keith Obadike,0,0
 18217,,,eteam,2001,0
-18119,500721449,,Allard van Hoorn,1968,0
+18119,500721449,Q108480295,Allard van Hoorn,1968,0
 9667,,,Gicheol Lee,0,0
 8449,500331909,Q5026682,Camille Utterback,1970,0
 19862,,,Tega Brain,1982,0
@@ -3896,7 +3896,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8451,,,William Bradford Paley,1958,0
 8176,,,Robert Nideffer,1964,0
 8245,500290617,Q19012178,Kevin McCoy,1967,0
-20911,,,Rick Silva,1977,0
+20911,,Q124623520,Rick Silva,1977,0
 8447,,,Alex Galloway,1974,0
 10615,,,Myron Turner,0,0
 8980,500123007,Q3482619,Shu Lea Cheang,1954,0
@@ -3943,7 +3943,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19594,500114725,Q20657131,Kristin Lucas,1968,0
 8646,,Q7045465,Noah Wardrip-Fruin,1972,0
 15337,,,C5 Corporation,0,0
-20604,,,Sara Ludy,1980,0
+20604,,Q51289942,Sara Ludy,1980,0
 10001,,Q5110834,Christina McPhee,1954,0
 9516,,,Beatriz daCosta,1974,2012
 15260,,,Katherine Moriwaki,0,0
