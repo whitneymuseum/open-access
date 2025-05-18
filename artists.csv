@@ -396,7 +396,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9034,,,Frederic Taubes,1900,1991
 16197,,Q15499401,Lenore G. Tawney,1907,2007
 7618,500043257,Q4453757,Al Taylor,1948,1999
-14238,500333777,Q43138652,Henry Taylor,1958,0
+14238,500333777,Q18343072,Henry Taylor,1958,0
 1318,500050992,Q3341685,Henry Fitch Taylor,1853,1925
 1319,500049512,Q53117681,John W. Taylor,1897,1983
 1320,500041102,Q7240574,Prentiss Hottel Taylor,1907,1991
@@ -1111,7 +1111,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4143,500112049,Q7364595,Rona Pondick,1952,0
 1040,500019976,Q327862,Larry Poons,1937,0
 1041,,Q21686053,Anne Poor,1918,2002
-1042,,,Henry Varnum Poor,1887,1970
+1042,,Q5729485,Henry Varnum Poor,1887,1970
 4376,500114661,Q18685227,Carl Pope,1961,0
 7879,500332876,Q2547113,Pope.L,1955,2023
 1044,,,David Porter,1912,2005
@@ -1822,7 +1822,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11185,500351516,Q817246,Bengt af Klintberg,1938,0
 708,500049045,Q16008056,Georgina Klitgaard,1893,1976
 709,500007983,Q17183235,Karl Knaths,1891,1971
-710,,,Michael Knigin,1942,2011
+710,500783138,,Michael Knigin,1942,2011
 11186,500062000,Q3566375,Milan Knizak,1940,0
 11187,500069909,Q243078,Alison Knowles,1933,0
 12574,,,Win Knowlton,1953,1953
@@ -3076,7 +3076,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5470,500114640,Q6283845,Joseph Havel,1954,0
 4528,500125533,Q7803633,Tim Hawkinson,1960,0
 13638,500333632,Q4500460,Richard Hawkins,1961,0
-584,,Q2153269,Charles Hawthorne,1872,1930
+584,500008988,Q2153269,Charles Hawthorne,1872,1930
 585,500084597,Q63965568,David Haxton,1943,0
 586,500122496,Q19644275,Alex Hay,1930,0
 17134,,Q3361615,Palmer Hayden,1890,1973
@@ -3135,7 +3135,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4419,500061240,Q2545780,Gary Hill,1951,0
 9460,500372989,Q5235011,David Hilliard,1964,0
 10340,,,Tim Hillis,0,0
-5184,,Q347194,Lewis Hine,1874,1940
+5184,500115193,Q347194,Lewis Hine,1874,1940
 605,500011853,Q18619037,Charles B. Hinman,1932,0
 5207,500071558,Q3136231,Hiro,1930,2021
 608,,Q1532260,Albert Hirschfeld,1903,2003
