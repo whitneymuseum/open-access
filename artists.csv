@@ -409,7 +409,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3336,,Q91869935,Michael Tetherow,1942,2007
 11854,,,Storm Tharp,1970,0
 4377,500114750,Q514459,Diana Thater,1962,0
-1324,,Q20981207,Gerald Thayer,1883,1939
+1324,500125506,Q20981207,Gerald Thayer,1883,1939
 3508,500097373,Q1346819,Paul Thek,1933,1988
 2645,500093298,Q22237360,Robert Therrien,1947,2019
 1325,500010185,Q698275,Wayne Thiebaud,1920,2021
@@ -3954,6 +3954,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21320,,Q113041419,Mat Dryhurst,1984,0
 21039,,Q23008015,Nikita Gale,1983,0
 21042,500330189,Q28870361,Karyn Olivier,1968,0
+21060,500782799,Q61999397,Ser Serpas,1995,0
 21061,500782835,Q29446450,Carmen Winant,1983,0
 21074,,Q20683904,Zoë Buckman,1985,0
 21011,,Q123363957,Leslie Martinez,1985,0
@@ -4016,6 +4017,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21575,,Q55455463,Ashley Zelinskie,1986,0
 21637,,,Sawad Brooks,0,0
 8560,500476100,Q63230319,Martha Jane Pettway,1898,2003
+16717,,,Constantina Zavitsanos,1977,0
 19616,,,Steven Fragale,1984,0
 21047,,,Lotus L. Kang,1985,0
 20993,500196202,Q1901598,Rigoberto Torres,1960,0
@@ -4036,3 +4038,4 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21535,,Q123347356,Christian Walker,1953,2003
 21509,,,Raque Ford,1986,0
 20959,500127466,Q5505013,Fritz Scholder,1937,2005
+21570,,,Rafik Greiss,0,0
