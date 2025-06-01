@@ -1053,7 +1053,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 13602,500474094,Q63090840,Jenny Perlin,1970,0
 8004,500118698,Q16193792,Hirsch Perlman,1960,0
 5392,500075878,Q43135176,Joel Perlman,1943,0
-8653,,,Bill Perlmutter,1932,0
+8653,,Q134449252,Bill Perlmutter,1932,0
 1014,,,Herbert Perr,1941,0
 1015,500022964,Q22086831,Van Dearing Perrine,1869,1955
 10954,,Q63090788,Serena Perrone,1979,0
@@ -1193,7 +1193,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 972,,Q19884000,Elliot Orr,1904,1997
 11953,,Q16014151,Eric Orr,1939,1998
 973,,,The Orr,1939,0
-5216,500391779,,David Ortins,1955,0
+5216,500391779,Q134451252,David Ortins,1955,0
 974,500491346,Q7293996,Raphael Montañez Ortiz,1934,0
 975,500000936,Q5538809,George Ortman,1926,2015
 976,500026959,,Osborne,1909,0
@@ -2074,7 +2074,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10164,500115975,Q320241,Rodney Graham,1949,2022
 11194,500294264,Q55218831,Amy Granat,1976,0
 9141,500122453,Q15460580,Katy Grannan,1969,0
-517,,Q21176767,Gordon Hope Grant,1875,1962
+517,500029752,Q21176767,Gordon Hope Grant,1875,1962
 9002,,,Edward Mario Granville,1905,0
 518,500010825,Q1693440,Morris Graves,1910,2001
 519,,Q541831,Nancy Graves,1940,1995
@@ -2973,7 +2973,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5200,500009175,Q2893137,Bernarda Bryson Shahn,1903,2004
 8188,500064389,Q4899487,Beverly Buchanan,1940,2015
 192,500082476,Q112258751,Howard Buchwald,1943,0
-13741,500043618,,John Buck,1946,0
+13741,500043618,Q14944060,John Buck,1946,0
 13724,500684578,Q77348588,Robert Buck,1959,0
 193,,Q21993966,David Budd,1927,1991
 8988,,Q63014422,Alice Standish Buell,1892,1960
@@ -4039,3 +4039,6 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21509,,,Raque Ford,1986,0
 20959,500127466,Q5505013,Fritz Scholder,1937,2005
 21570,,,Rafik Greiss,0,0
+21599,,Q5232007,David Driskell,1931,2020
+21532,,Q4762240,Angel Otero,1981,0
+21530,,Q20631037,Frank Benson,1976,0
