@@ -468,7 +468,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3496,500014266,,Alan Turner,1943,2020
 1351,500009338,Q740966,James Turrell,1943,0
 8118,,Q55219925,Anne Turyn,1954,0
-5393,,,Charles Turzak,1899,1986
+5393,,Q43139099,Charles Turzak,1899,1986
 1352,500116277,Q836743,Richard Tuttle,1941,0
 1353,500006514,Q1342683,John H. Twachtman,1853,1902
 1354,,,Russell Gould Twiggs,1898,1991
@@ -3462,6 +3462,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17896,,Q1302630,Si Lewen,1918,2016
 14629,500110932,Q42313524,Peter Moore,1932,1993
 17748,500333367,Q5046272,Carrie Moyer,1960,0
+9250,500122504,Q328137,Isaac Julien,1960,""
 18589,500127714,Q6380307,Kay WalkingStick,1935,0
 14968,,Q117856,Channa Horwitz,1932,2013
 18518,,Q63185265,Clarissa Tossin,1973,0
@@ -3510,8 +3511,8 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 18842,500274766,Q13560765,Teresita Fernández,1968,0
 18406,500123005,Q55235675,Carolina Caycedo,1978,0
 18616,500782908,Q19664324,Christine Sun Kim,1980,0
-19027,,,Eva Mattes,1976,0
-19028,,,Franco Mattes,1976,0
+19027,,Q107622320,Eva Mattes,1976,0
+19028,,Q107695118,Franco Mattes,1976,0
 18122,,Q73030216,Willa Nasatir,1990,0
 18410,,Q19897581,Lena Henke,1982,0
 18617,500782788,Q29958136,Deborah Roberts,1962,0
@@ -3630,6 +3631,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19015,,,Madeline Hollander,1986,0
 19043,500451121,Q63117801,Matthew Angelo Harrison,1989,0
 19317,,Q18201823,Rick Lowe,1961,0
+12300,500780981,Q50345522,Torkwase Dyson,1973,0
 11499,,Q20984397,Hazel Larsen Archer,1921,2001
 19758,,Q108602003,Salman Toor,1983,0
 17713,,Q28858346,Harold Mendez,1977,0
@@ -3953,7 +3955,9 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21319,,Q16203447,Holly Herndon,1980,0
 21320,,Q113041419,Mat Dryhurst,1984,0
 21039,,Q23008015,Nikita Gale,1983,0
+21034,,Q118541261,Madeleine Hunt-Ehrlich,1987,""
 21042,500330189,Q28870361,Karyn Olivier,1968,0
+21049,,Q116255763,Maja Ruznic,1983,""
 21060,500782799,Q61999397,Ser Serpas,1995,0
 21061,500782835,Q29446450,Carmen Winant,1983,0
 21074,,Q20683904,Zoë Buckman,1985,0
@@ -4030,7 +4034,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 13392,500330200,Q29035350,Julie Becker,1972,2016
 21275,,Q19879231,Danielle Orchard,1985,0
 21469,,Q118541427,Karon Davis,1977,0
-21556,,Q7847717,Truman Lowe,1944,2019
+21556,500127053,Q7847717,Truman Lowe,1944,2019
 21564,500349004,Q6388257,Ken Ohara,0,0
 21498,,Q109282298,Issy Wood,1993,0
 21428,,Q65030035,Doron Langberg,1985,0
@@ -4040,5 +4044,6 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20959,500127466,Q5505013,Fritz Scholder,1937,2005
 21570,,,Rafik Greiss,0,0
 21599,,Q5232007,David Driskell,1931,2020
+21614,,,Agosto Machado,0,0
 21532,,Q4762240,Angel Otero,1981,0
 21530,,Q20631037,Frank Benson,1976,0
