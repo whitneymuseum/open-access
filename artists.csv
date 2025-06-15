@@ -976,7 +976,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1140,500040796,Q7377450,Rudolph Ruzicka,1883,1978
 1141,500020957,Q4768767,Anne Ryan,1889,1954
 1142,500030492,Q948598,Albert Pinkham Ryder,1847,1917
-9028,,Q38084271,Margery Austen Ryerson,1886,1989
+9028,500055567,Q38084271,Margery Austen Ryerson,1886,1989
 1143,500118752,Q640936,Robert Ryman,1930,2019
 1062,,Q15452515,Robert Quackenbush,1929,0
 1063,,,Leo Quanchi,1892,1974
@@ -1080,7 +1080,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1024,,Q6766212,Marjorie Phillips,1895,1985
 1025,500041004,Q63169117,Matt Phillips,1927,0
 11302,,,Peter Phillips,1939,1939
-4826,500114737,,Richard Phillips,1962,0
+4826,500114737,Q1833409,Richard Phillips,1962,0
 1026,,Q52150921,George Picken,1898,1971
 1027,500026784,Q18158326,Joseph Pickett,1848,1918
 9236,500121269,Q5102880,Chloe Piene,1972,0
@@ -1557,7 +1557,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 741,500011629,Q5549319,Gerald Laing,1936,2011
 14198,,,Alix Lambert,0,0
 7582,,Q829004,David Lamelas,1946,0
-743,,Q6528994,Leroy Lamis,1925,2010
+743,500080873,Q6528994,Leroy Lamis,1925,2010
 742,500001677,Q21287777,Jennett Lam,1911,1985
 11666,,,Andrew Lampert,1976,0
 744,500069734,Q7151935,Paul Landacre,1893,1963
