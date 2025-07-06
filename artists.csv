@@ -262,7 +262,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1428,500002663,Q8019143,William T. Williams,1942,0
 5426,,,John Willis,0,0
 11821,500472154,Q5648502,Hank Willis Thomas,1976,0
-1429,,,Thornton Willis,1936,2025
+1429,500026609,Q7796569,Thornton Willis,1936,2025
 1430,500019367,Q21176533,Christopher Wilmarth,1943,1987
 14153,,Q51480788,Martin Wilner,1959,0
 7503,,Q4749450,Amy Wilson,1973,0
@@ -458,7 +458,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1343,500023751,Q17125550,David True,1942,0
 1344,500022909,Q565848,Anne Truitt,1921,2004
 1345,,,"Herman Trunk, Jr.",1894,1963
-1346,,Q7982218,Wen-Ying Tsai,1928,2013
+1346,500617179,Q7982218,Wen-Ying Tsai,1928,2013
 13661,500473297,Q17581477,Wu Tsang,1982,0
 1347,500001053,Q21995255,Nahum Tschacbasov,1899,1984
 1348,500025045,Q4731924,Allen Tucker,1866,1939
@@ -3673,7 +3673,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19012,500294469,Q675742,Cyprien Gaillard,1980,0
 20141,500487347,Q21572879,Andrea Carlson,1979,0
 19842,,,Nicole Soto Rodríguez,1985,0
-20149,,Q65030584,Rodrigo Valenzuela,1982,0
+20149,500783434,Q65030584,Rodrigo Valenzuela,1982,0
 18902,,Q1685716,Alfredo Ramos Martínez,1871,1946
 20133,,Q5496902,Freddy Rodríguez,1945,2022
 20156,,,Martine Gutierrez,0,0
@@ -4043,6 +4043,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21509,,,Raque Ford,1986,0
 20959,500127466,Q5505013,Fritz Scholder,1937,2005
 21570,,,Rafik Greiss,0,0
+21618,,,Emma Safir,0,0
 21599,,Q5232007,David Driskell,1931,2020
 21614,,,Agosto Machado,0,0
 21532,,Q4762240,Angel Otero,1981,0
