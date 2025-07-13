@@ -996,7 +996,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 986,500118744,Q158056,Nam June Paik,1932,2006
 7976,500332852,Q6032604,Roxy Paine,1966,0
 13273,,,PaJaMa,1930,1950
-13126,,,Matthew Palladino,1985,0
+13126,,Q135113146,Matthew Palladino,1985,0
 987,,Q8006379,William C. Palmer,1906,1987
 988,500024530,Q105883018,Tommy Dale Palmore,1945,0
 14079,500125646,Q1351201,Gary Panter,1950,0
@@ -2220,7 +2220,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 451,500013115,Q13560766,Mary Frank,1933,0
 14095,,Q21064326,Natalie Frank,1980,0
 3897,500019916,Q467574,Robert Frank,1924,2019
-453,,Q22003213,Thomas Fransioli,1906,1997
+453,500079849,Q22003213,Thomas Fransioli,1906,1997
 4603,500030189,Q3610506,Antonio Frasconi,1919,2013
 12755,500125322,Q273205,Andrea Fraser,1965,0
 454,500104956,Q19959479,Charles Frazier,1930,0
@@ -2250,7 +2250,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8769,,,Zipora Fried,1964,0
 466,,,Paul Froelich,1897,1968
 7942,,,Brian Frye,1974,0
-468,,,Sherry Fry,1879,1966
+468,500065486,,Sherry Fry,1879,1966
 7829,500333304,Q98762795,Carl Fudge,1962,0
 11091,500015697,Q102289,R. Buckminster Fuller,0,0
 469,,Q7634090,Sue Fuller,1914,2006
@@ -2319,7 +2319,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 13063,500463748,Q51287277,N. Dash,1980,0
 13729,500473202,,Das Institut,2007,0
 320,,Q21647952,A. Mark Datz,1889,1969
-321,,Q15488794,James Daugherty,1889,1974
+321,500028785,Q15488794,James Daugherty,1889,1974
 13630,500109492,Q16192673,Moyra Davey,1958,0
 322,500003739,Q21693925,Randall Davey,1887,1964
 4765,500037020,Q962520,Bruce Davidson,1933,0
@@ -3138,7 +3138,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5184,500115193,Q347194,Lewis Hine,1874,1940
 605,500011853,Q18619037,Charles B. Hinman,1932,0
 5207,500071558,Q3136231,Hiro,1930,2021
-608,,Q1532260,Albert Hirschfeld,1903,2003
+608,500054291,Q1532260,Albert Hirschfeld,1903,2003
 606,500011505,Q6284010,Joseph Hirsch,1910,1981
 607,500024254,Q21898072,Stefan Hirsch,1899,1964
 5274,500017273,Q159907,David Hockney,1937,0
