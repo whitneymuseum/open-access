@@ -272,7 +272,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17244,500350933,Q6774612,Martha Wilson,1947,0
 1433,500076583,Q16011690,May Wilson,1905,1986
 1434,,,R. G. Wilson,0,0
-4902,500124951,Q541526,Robert Wilson,1941,0
+4902,500124951,Q541526,Robert Wilson,1941,2025
 1435,500044797,Q21995315,Sol Wilson,1896,1974
 5462,500332976,Q3567371,Wes Wilson,1937,0
 1436,500041142,Q21704661,Arnold Wiltz,1889,1937
@@ -1918,7 +1918,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 654,,,Ben Johnson,1902,1968
 655,500084260,Q21648341,Buffie Johnson,1912,2006
 11766,,Q79682401,Butt Johnson,1979,0
-12573,500068870,,Cletus Johnson,1941,0
+12573,500068870,Q117119645,Cletus Johnson,1941,0
 657,500054545,Q5591315,Grace Mott Johnson,1882,1967
 3480,,,Larry Johnson,1935,0
 4791,500028168,Q6531887,Lester Johnson,1919,2010
@@ -2258,7 +2258,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 9229,500122451,Q4861359,Barnaby Furnas,1973,0
 3593,500334114,Q4679085,Adam Fuss,1961,0
 15828,,Q19626782,Victoria Fu,0,0
-391,,Q28704116,Luis Eades,1923,0
+391,,Q28704116,Luis Eades,1923,2014
 392,500062882,Q4663562,Abastenia St. Leger Eberle,1878,1942
 10963,500128028,Q55218569,Shannon Ebner,1971,0
 16077,500782984,Q4705094,Ala Ebtekar,1978,0
@@ -3595,7 +3595,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 14992,500471163,Q16197272,A.L. Steiner,0,0
 19527,,Q28748014,Danielle Dean,1982,0
 18809,,Q111490819,WangShui,1986,0
-18092,,Q107539990,Margaret French,1906,1998
+18092,,Q107539990,Margaret Hoening French,1906,1998
 19619,,Q28132547,Zach Blas,1981,0
 19106,,,Marcus Fischer,1977,0
 19621,,Q28869335,Stephanie Dinkins,1964,0
