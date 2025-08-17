@@ -499,7 +499,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7838,500032779,Q1452504,Fred Sandback,1943,2003
 1151,500013748,Q20089904,Ludwig Sander,1906,1975
 5194,500100588,Q63073567,Hope Sandrow,1951,0
-4443,,Q4916240,Sven Birger Sandzén,1871,1954
+4443,500000985,Q4916240,Sven Birger Sandzén,1871,1954
 1153,,,Hélène Sardeau,1899,1969
 1154,500007856,Q16106789,Alan Saret,1944,0
 1155,500023972,Q155626,John Singer Sargent,1856,1925
@@ -2728,7 +2728,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3789,500118716,Q522240,Tina Barney,1945,0
 5387,500042571,Q5649087,Hannelore Baron,1926,1987
 8406,,,Burt Barr,1943,2016
-62,500335437,Q71833465,Victoria Barr,1937,0
+62,500335437,Q71833465,Victoria Barr,1937,2025
 14306,500053936,Q2156840,Robert Barry,1936,0
 7348,500034312,Q21985006,James Barsness,1954,0
 8220,500020064,Q3431473,Richmond Barthé,1901,1989
@@ -4048,3 +4048,4 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21614,,,Agosto Machado,0,0
 21532,,Q4762240,Angel Otero,1981,0
 21530,,Q20631037,Frank Benson,1976,0
+21711,,,INFANT,0,0
