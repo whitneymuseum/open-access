@@ -179,7 +179,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5447,,,Nari Ward,1969,0
 8017,500125648,Q1077842,Chris Ware,1967,0
 1384,500006031,Q5603,Andy Warhol,1928,1987
-4648,,Q52157196,Hyman Warsager,1909,1974
+4648,500336241,Q52157196,Hyman Warsager,1909,1974
 1385,500487265,Q41634654,Jane Wasey,1912,1992
 11255,500294309,Q7186695,Phoebe Washburn,1973,0
 3482,500462677,Q119628844,Oliver Wasow,1960,0
@@ -751,7 +751,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 4818,,Q43138051,Joseph Stashkevetch,1958,0
 1272,500467971,Q77324784,Andrew Stasik,1932,0
 17192,500782773,Q21809601,Evelyn Statsinger,1927,2016
-1273,,Q99541346,Alexander R. Stavenitz,1901,1960
+1273,500467973,Q99541346,Alexander R. Stavenitz,1901,1960
 1274,,Q5065510,Cesare Stea,1893,1960
 4244,500332014,,Hugh Steers,1963,1995
 1275,500092772,Q6212501,Joseph Stefanelli,1921,0
@@ -3723,7 +3723,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20270,,Q22088086,Tourmaline,1983,0
 20278,,,Chase Hall,1993,0
 20209,,Q8010139,William Greaves,1926,2014
-19177,,Q7296393,Raven Chacon,1977,0
+19177,500783540,Q7296393,Raven Chacon,1977,0
 20162,,,Rebecca Allen,1953,0
 15823,500463217,Q77288010,Darrel Ellis,1958,1992
 17456,,,MPA,1980,0
@@ -3818,7 +3818,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20541,,,Johanna Unzueta,1974,0
 20476,,,Gabriella N. Báez,1997,0
 20741,500653712,Q19012525,Auriea Harvey,1971,0
-20753,,Q51120362,Rose B. Simpson,1983,0
+20753,500783545,Q51120362,Rose B. Simpson,1983,0
 20897,500126844,Q454467,Oscar Howe,1915,1983
 19864,500073486,Q7782868,Theresa Hak Kyung Cha,1951,1982
 12182,500294144,Q16216748,Every Ocean Hughes,0,0
@@ -3848,7 +3848,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20834,500004656,Q22086634,Roberto Gil de Montes,1950,0
 20838,500336333,Q28223041,Suzanne Jackson,1944,0
 20781,500332587,Q6377196,Kathy Butterly,1963,0
-20733,,Q120734585,Dakota Mace,1991,0
+20733,500783576,Q120734585,Dakota Mace,1991,0
 8253,,,Andy Deck,1968,0
 9443,,,Ken Perlin,1957,0
 9201,,,Scott Paterson,1969,0
@@ -4044,6 +4044,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20959,500127466,Q5505013,Fritz Scholder,1937,2005
 21570,,,Rafik Greiss,0,0
 21618,,,Emma Safir,0,0
+21513,,,Young Chung,1972,0
 21599,,Q5232007,David Driskell,1931,2020
 21614,,,Agosto Machado,0,0
 21532,,Q4762240,Angel Otero,1981,0
