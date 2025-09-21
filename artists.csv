@@ -607,7 +607,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1208,,Q77603176,Stuart Shedletsky,1944,2006
 1209,500115325,Q624868,Charles Sheeler,1883,1965
 1210,500023740,Q15493742,Millard Sheets,1907,1989
-9986,,,Mark Sheinkman,0,0
+9986,500332898,Q6769686,Mark Sheinkman,1963,0
 12049,500334015,Q55219777,Ward Shelley,1950,0
 2909,500104869,Q229455,Cindy Sherman,1954,0
 1211,,Q20741904,Sarai Sherman,1922,2013
@@ -958,7 +958,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 8184,500125701,Q6990118,Nellie Mae Rowe,1900,1982
 9362,,,Susan Rowland,1940,0
 14080,,,Rudy Royval,1968,0
-9027,,,Lewis W. Rubenstein,1908,2003
+9027,,Q94655205,Lewis W. Rubenstein,1908,2003
 12119,500062209,Q6524192,Leo Rubinfien,1953,0
 10434,,,Nancy Rubins,1952,1952
 14336,500299854,Q1231971,Sterling Ruby,1972,0
@@ -1419,7 +1419,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5104,500332861,Q42313393,Sean Mellyn,1965,0
 878,,Q7152460,Paul R. Meltsner,1905,1966
 3694,500052055,Q463639,Ana Mendieta,1948,1985
-879,,Q5344433,Edward Meneeley,1927,2012
+879,500007446,Q5344433,Edward Meneeley,1927,2012
 880,,Q245361,Zygmunt Menkes,1896,1986
 12575,500095275,,Will Mentor,1958,0
 4364,500346227,Q21809605,Herman Menzel,1904,0
@@ -1693,7 +1693,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11637,500329929,Q7490133,Sharon Louden,1964,0
 799,500012330,Q685186,Morris Louis,1912,1962
 9963,500034013,Q6660410,Liza Lou,1969,0
-800,,Q6196481,Jim Love,1927,2005
+800,500065267,Q6196481,Jim Love,1927,2005
 7356,,,Whitfield Lovell,1959,1959
 801,,Q4738077,Alvin Loving,1935,2005
 9015,,Q56025072,Nat Lowell,1880,1956
@@ -2111,7 +2111,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 538,500067133,Q6962720,Nancy Grossman,1940,0
 4875,,Q993355,Sid Grossman,1913,1955
 537,500484396,Q22086722,Sidney Gross,1921,1969
-539,500053771,Q15432022,Robert Grosvenor,1937,0
+539,500053771,Q15432022,Robert Grosvenor,1937,2025
 540,500014558,Q107194,George Grosz,1893,1959
 4895,,Q79681509,Virgil William Grotfeldt,1948,2009
 7515,500041871,Q11978054,Jan Groth,1938,0
