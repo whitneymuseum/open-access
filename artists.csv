@@ -997,7 +997,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7976,500332852,Q6032604,Roxy Paine,1966,0
 13273,,,PaJaMa,1930,1950
 13126,,Q135113146,Matthew Palladino,1985,0
-987,,Q8006379,William C. Palmer,1906,1987
+987,500017363,Q8006379,William C. Palmer,1906,1987
 988,500024530,Q105883018,Tommy Dale Palmore,1945,0
 14079,500125646,Q1351201,Gary Panter,1950,0
 7333,500037044,Q1708754,Tod Papageorge,1940,0
@@ -1451,7 +1451,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 12951,500044488,Q19868567,Jeanne Miles,1908,1999
 10390,500083892,Q28948928,Brenda Miller,1941,0
 4649,,,Earle Miller,1907,1991
-891,,Q64514298,Harriette G. Miller,1892,1971
+891,500062871,Q64514298,Harriette G. Miller,1892,1971
 4060,,Q18044948,John E. Miller,1954,0
 892,,,Judith Suzanne Miller,1943,0
 893,500025218,Q3195174,Kenneth Hayes Miller,1876,1952
@@ -1583,7 +1583,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 754,500011243,Q6793620,Mauricio Lasansky,1914,2012
 13715,500715761,Q23887704,Liz Magic Laser,1981,0
 3578,500076379,Q1703229,Jonathan Lasker,1948,0
-755,,,Joseph  L. Lasker,1919,2015
+755,500106384,,Joseph  L. Lasker,1919,2015
 756,,,Ibram Lassaw,1913,2004
 11322,500355647,Q5353046,Elad Lassry,1977,0
 4016,500064210,Q107664289,Paul Laster,1951,0
@@ -1759,7 +1759,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 16200,,Q698256,On Kawara,1933,2014
 684,,Q6969709,Nathaniel Kaz,1917,2010
 685,500011905,Q20871041,James Kearns,1924,0
-5103,500464323,,Jerry Kearns,1943,0
+5103,500464323,Q136405716,Jerry Kearns,1943,0
 9009,,Q5423369,Ezra Jack Keats,1916,1983
 11126,500333928,Q24765381,Matt Keegan,1976,0
 11986,,,Keiko Narahashi,1959,0
@@ -1943,7 +1943,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 14108,,Q19998182,Charles Juhasz-Alvarado,1965,0
 4618,500002020,Q20899709,Mervin Jules,1912,1994
 17181,,Q52714942,Jamian Juliano-Villani,1987,0
-5042,,Q56829723,James Joseph Juszczyk,1943,0
+5042,500105371,Q56829723,James Joseph Juszczyk,1943,0
 9621,,Q64823482,John Ihle,1925,2002
 638,,Q169281,Robert Indiana,1928,2018
 10774,,Q1756415,Will Insley,1929,2011
@@ -1999,7 +1999,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5272,500332369,Q55218770,Ava Gerber,1961,0
 486,,,Eugenie Gershoy,1905,1986
 12948,,,Vito Giacalone,1930,0
-3427,,Q28854789,Steven Gianakos,1938,0
+3427,500113238,Q28854789,Steven Gianakos,1938,0
 8511,,,Larry Giannetino,1956,2002
 4249,500094623,Q1233831,Ralph Gibson,1939,0
 9213,500122452,,Sandra Gibson,1968,0
@@ -2101,7 +2101,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7611,500114638,Q11929013,Joseph Grigely,1956,0
 530,,Q84561630,John Grillo,1917,2014
 531,,Q7174391,Peter Grippe,1912,2002
-532,,Q94573926,Salvatore William Grippi,1921,2017
+532,500092755,Q94573926,Salvatore William Grippi,1921,2017
 5483,500002645,Q5610214,Gronk,1954,0
 533,500008450,Q3422714,Red Grooms,1937,0
 534,500037194,Q3431793,Jan Groover,1943,2012
@@ -2268,7 +2268,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10807,500126802,Q13634229,Hock E Aye Vi Edgar Heap of Birds,1954,0
 394,,Q79672865,Neil Edge,1945,0
 4600,500014767,Q475733,Harold Edgerton,1903,1990
-395,,Q19792410,Stuart Edie,1908,1974
+395,500029022,Q19792410,Stuart Edie,1908,1974
 396,500016982,Q43129882,Leonard Edmondson,1916,2002
 7494,,,Jeff Edwards,1945,0
 14240,500108626,Q3305305,Melvin Edwards,1937,0
@@ -2837,7 +2837,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 118,,,S.F. Bilotti,1880,1953
 119,,Q124747358,Alexander M. Bing,1878,1959
 7910,500007274,Q85719,Ilse Bing,1899,1998
-17337,,Q17305697,McArthur Binion,1946,0
+17337,500783798,Q17305697,McArthur Binion,1946,0
 17079,,,Phillip Birch,1978,0
 14094,500333932,Q20861416,Willie Birch,1942,0
 11419,,Q131191126,Colby Bird,1978,0
