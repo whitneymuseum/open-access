@@ -3463,6 +3463,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 14629,500110932,Q42313524,Peter Moore,1932,1993
 17748,500333367,Q5046272,Carrie Moyer,1960,0
 9250,500122504,Q328137,Isaac Julien,1960,0
+7583,500332847,Q7346769,Robert Lazzarini,,
 18589,500127714,Q6380307,Kay WalkingStick,1935,0
 14968,,Q117856,Channa Horwitz,1932,2013
 18518,,Q63185265,Clarissa Tossin,1973,0
@@ -3745,6 +3746,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 17401,,,Dora Budor,1984,0
 20715,,,Kiyoshi Kuromiya,1943,2000
 20725,,,Paul B. Davis,0,0
+20611,,Q129037038,Lulu Varona,1993,""
 20420,,Q24658212,Ellen Cantor,1961,2013
 19434,500523416,Q88516746,Guadalupe Rosales,1980,0
 19873,,Q55236336,Rayyane Tabet,1983,0
@@ -4034,6 +4036,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21555,,Q117860106,cameron clayborn,1992,0
 13392,500330200,Q29035350,Julie Becker,1972,2016
 21275,,Q19879231,Danielle Orchard,1985,0
+21209,,Q65051503,Eldren Bailey,"",""
 21469,,Q118541427,Karon Davis,1977,0
 21556,500127053,Q7847717,Truman Lowe,1944,2019
 21564,500349004,Q6388257,Ken Ohara,0,0
@@ -4051,3 +4054,17 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21532,,Q4762240,Angel Otero,1981,0
 21530,,Q20631037,Frank Benson,1976,0
 21711,,,INFANT,0,0
+13563,,Q4969141,Gunvor Nelson,1931,2025
+21565,,,Zilia Sánchez,0,0
+21635,,,Patrice Aphrodite Helmar,0,0
+19917,500334134,Q6837131,Michelle Lopez,1970,0
+21632,,,Gonzalo Reyes Rodriguez,0,0
+21639,,Q55649612,Gretchen Andrew,1988,0
+21548,,Q65029314,Nate Lewis,1985,0
+20579,500095431,Q7143903,Pat Passlof,1928,2011
+21573,500057302,Q64667031,René Santos,1954,1986
+21628,,Q466654,Pacita Abad,1946,2004
+2843,500329381,Q28924299,Yong Soon Min,0,0
+21562,500387743,Q19998250,Daniel Canogar,1964,0
+21685,500050198,Q6774151,Marta Minujín,1943,0
+21609,500037077,Q61746879,Mark Ruwedel,1954,0
