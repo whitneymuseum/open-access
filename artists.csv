@@ -489,7 +489,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 1148,,Q21995142,Lucia Autorino Salemme,1919,2010
 1149,500027321,Q2637678,David Salle,1952,0
 7966,,,Salon de Fleurus,1992,1992
-1150,500021682,Q663175,Lucas Samaras,1936,0
+1150,500021682,Q663175,Lucas Samaras,1936,2024
 12596,500267051,Q23068140,Victoria Sambunaris,1964,0
 10972,500116164,Q7408114,Sam Samore,1963,0
 12313,,Q5489382,Frank Samperi,1933,1991
@@ -1340,7 +1340,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 10344,,,Alfred Martinez,1944,2021
 11227,500116651,Q5217724,Daniel Joseph Martinez,1957,0
 843,500124303,Q5458802,Fletcher Martin,1904,1979
-844,500065996,Q48720106,Fred Martin,1927,0
+844,500065996,Q48720106,Fred Martin,1927,2022
 845,,Q21012580,Keith Martin,1911,1983
 846,,Q1777580,Knox Martin,1923,2022
 9214,500122529,Q20825654,Virgil Marti,1962,0
@@ -2056,7 +2056,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 509,500074594,Q23720084,Robert Gordy,1933,1986
 4459,,Q63539982,Boris Gorelick,1912,1984
 10611,500096644,Q41253902,Gianfranco Gorgoni,1941,2019
-510,,,Arshile Gorky,1897,1948
+510,,,Arshile Gorky,1902,1948
 3577,500118770,Q4782029,April Gornik,1953,0
 9308,500102927,Q3181622,John Gossage,1946,0
 511,500004904,Q365388,Adolph Gottlieb,1903,1974
@@ -2152,7 +2152,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7940,500294261,Q55257814,Robert Fenz,1969,0
 419,,Q765387,Herbert Ferber,1906,1991
 420,,Q1265441,Duncan Ferguson,1901,1974
-421,500007652,Q6116329,Jackie Ferrara,1929,0
+421,500007652,Q6116329,Jackie Ferrara,1929,2025
 422,500010015,Q20887067,John Ferren,1905,1970
 423,500070290,Q7282133,Rafael Ferrer,1933,0
 2851,500032704,Q1634329,Hugh Ferriss,1889,1962
@@ -2181,7 +2181,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 7907,500124397,Q18422148,Steve Fitch,1949,0
 11115,,Q43130269,Grancel Fitz,1894,1963
 8792,500376294,,George Fitzpatrick,1942,0
-7379,500331982,Q7822347,Tony FitzPatrick,1958,0
+7379,500331982,Q7822347,Tony Fitzpatrick,1958,2025
 436,500025614,Q537578,Audrey Flack,1931,2024
 437,500028475,Q6233387,John B. Flannagan,1895,1942
 438,500021736,Q504395,Dan Flavin,1933,1996
@@ -2436,7 +2436,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3709,,Q464044,Katherine Dreier,1877,1952
 376,500013191,Q2561038,Werner Drewes,1899,1985
 377,500470238,Q7367281,Rosalyn Drexler,1926,2025
-378,,,Elsie Driggs,1895,1992
+378,500012280,Q3051756,Elsie Driggs,1898,1992
 4426,,Q28924470,Ellen Driscoll,1953,0
 379,500344159,Q94309343,Seymour Drumlevitch,1923,1989
 381,500464919,Q19802700,Sally Hazelet Drummond,1924,2017
@@ -2611,7 +2611,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 3451,500102583,Q2676807,Robert Colescott,1925,2009
 281,500082155,Q7970718,Warrington Colescott,1921,0
 4974,500334448,Q8021437,Willie Cole,1955,0
-4591,,Q38249010,Ed Colker,1927,0
+4591,500055950,Q38249010,Ed Colker,1927,0
 10203,500126082,Q4768237,Anne Collier,1970,0
 11652,500055951,Q7133045,Papo Colo,1946,0
 11294,500112934,Q15442118,Greg Colson,1956,0
@@ -3163,7 +3163,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 620,500008902,Q2641808,Budd Hopkins,1931,2011
 5275,,Q102711,Dennis Hopper,1936,2010
 621,500031212,Q203401,Edward Hopper,1882,1967
-1911,,Q3185911,Josephine Nivison Hopper,1883,1968
+1911,500607532,Q3185911,Josephine Nivison Hopper,1883,1968
 3334,500062257,Q433895,Roni Horn,1955,0
 9248,500122501,Q3002078,Craigie Horsfield,1949,0
 622,500031596,Q20908327,Earl Horter,1881,1940
@@ -4068,3 +4068,4 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21562,500387743,Q19998250,Daniel Canogar,1964,0
 21685,500050198,Q6774151,Marta Minujín,1943,0
 21609,500037077,Q61746879,Mark Ruwedel,1954,0
+21775,,,Frank WANG Yefeng,1984,0
