@@ -114,7 +114,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 37,500004353,Q5341650,Edward Avedisian,1936,2007
 5016,500013773,Q305497,Richard Avedon,1923,2004
 4127,,Q107166952,Eric Avery,1948,0
-38,,Q2714574,Milton Avery,1885,1965
+38,500002713,Q2714574,Milton Avery,1885,1965
 5482,,Q2281612,Sid Avery,1918,2002
 39,500482813,Q107617042,Manuel Ayaso,1934,0
 40,500026635,Q523722,Alice Aycock,1946,0
@@ -1615,7 +1615,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 11266,500639407,,Daniel Lefcourt,1975,0
 764,,Q42313405,Gerson Leiber,1921,0
 11639,,,Abby Leigh,1949,0
-8224,,,Mel Leipzig,1935,0
+8224,,,Mel Leipzig,1935,2025
 4876,500356032,Q459273,Saul Leiter,1923,2013
 765,500465780,Q30302585,Michael Lekakis,1907,1987
 3438,500115831,Q16148576,Annette Lemieux,1957,0
@@ -1824,7 +1824,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 709,500007983,Q17183235,Karl Knaths,1891,1971
 710,500783138,,Michael Knigin,1942,2011
 11186,500062000,Q3566375,Milan Knizak,1940,0
-11187,500069909,Q243078,Alison Knowles,1933,0
+11187,500069909,Q243078,Alison Knowles,1933,2025
 12574,,,Win Knowlton,1953,1953
 711,500024775,Q172105,John Koch,1909,1978
 11070,500036861,Q66033747,Lewis Koch,1949,0
@@ -2095,7 +2095,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 5458,500204726,Q8010195,William K. Greiner,1957,0
 527,500531506,Q21985607,Jack J. Greitzer,1910,1989
 10142,,Q316641,Joel Grey,1932,0
-528,500009242,Q21996883,John Griefen,1942,0
+528,500009242,Q21996883,John Griefen,1942,2025
 529,500057839,Q18356193,Scott Grieger,1946,0
 8185,500114637,Q28173191,Kojo Griffin,1971,0
 7611,500114638,Q11929013,Joseph Grigely,1956,0
@@ -3743,7 +3743,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20494,500376838,Q110234911,Allen Frame,0,0
 19364,500356250,Q16843235,Nicholas Galanin,1979,0
 20490,500523429,Q117336772,Joey Terrill,1955,0
-17401,,,Dora Budor,1984,0
+17401,,Q28967668,Dora Budor,1984,0
 20715,,,Kiyoshi Kuromiya,1943,2000
 20725,,,Paul B. Davis,0,0
 20611,,Q129037038,Lulu Varona,1993,""
