@@ -572,7 +572,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 2661,,Q535343,Sean Scully,1945,0
 1194,500081503,Q89835722,Stephanie Scuris,1931,0
 4822,500114745,,Glen Seator,1959,2002
-1195,,,James L. Seawright,1936,2022
+1195,,Q6142912,James L. Seawright,1936,2022
 3967,500330676,Q21994034,Carole Seborovski,1960,0
 1196,500032575,Q703624,George Segal,1924,2000
 1197,,Q63073372,Doris Seidler,1912,2010
@@ -3957,7 +3957,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21319,,Q16203447,Holly Herndon,1980,0
 21320,,Q113041419,Mat Dryhurst,1984,0
 21039,,Q23008015,Nikita Gale,1983,0
-21034,,Q118541261,Madeleine Hunt-Ehrlich,1987,""
+21034,,Q118541261,Madeleine Hunt-Ehrlich,1987,0
 21042,500330189,Q28870361,Karyn Olivier,1968,0
 21049,,Q116255763,Maja Ruznic,1983,0
 21060,500782799,Q61999397,Ser Serpas,1995,0
@@ -3990,6 +3990,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21019,,Q28661842,César A. Martínez,1944,0
 21066,500010828,Q1280593,Ron Cooper,1943,0
 16991,,Q104237006,Andy Robert,1984,0
+21408,,,Mark Armijo McKnight,1984,0
 21289,,,Karen J. Revis,1961,0
 21305,,Q62022480,Nanibah Chacon,1980,0
 21234,,Q107719124,Dionne Lee,1988,0
