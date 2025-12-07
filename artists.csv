@@ -3753,7 +3753,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 19866,,Q111508358,Buck Ellison,1987,0
 20616,500098329,Q42429326,Lew Thomas,0,0
 14656,,Q120867946,Trevor Shimizu,1978,0
-20243,,Q2405602,Terry Haass,1923,2016
+20243,500031546,Q2405602,Terry Haass,1923,2016
 20242,,Q111824218,Teresa D’Amico Fourpome,1914,1965
 20396,,,Marilyn Lerner,1942,0
 20457,500355608,,Firelei Báez,1981,0
@@ -3771,7 +3771,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 20431,,,Teresa Baker,1985,1985
 20264,,,Joseph Holtzman,1957,0
 17525,,Q76417341,American Artist,1989,0
-13739,,Q809034,Barry Gerson,1939,0
+13739,,Q809034,Barry Gerson,1939,2025
 18408,,Q43177852,Cy Gavin,1985,0
 20273,,,Dalton Gata,1977,0
 19868,,,Adam Gordon,1986,0
@@ -4056,7 +4056,7 @@ id,getty_ulan_id,wikidata_id,display_name,birth_date,death_date
 21532,,Q4762240,Angel Otero,1981,0
 21530,,Q20631037,Frank Benson,1976,0
 21711,,,INFANT,0,0
-13563,,Q4969141,Gunvor Nelson,1931,2025
+13563,500473956,Q4969141,Gunvor Nelson,1931,2025
 21565,,,Zilia Sánchez,0,0
 21635,,,Patrice Aphrodite Helmar,0,0
 19917,500334134,Q6837131,Michelle Lopez,1970,0
