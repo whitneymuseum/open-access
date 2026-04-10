@@ -62,7 +62,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 11173,,,Eric Andersen,1942,0
 18,,Q64532783,Allan Anderson,1907,1959
 8983,500042410,,Clarence William Anderson,1891,1972
-19,500542312,,John Anderson,1928,0
+19,500542312,Q99390002,John Anderson,1928,0
 10417,500070794,Q235066,Laurie Anderson,1947,0
 20,500011819,Q21158595,Lennart Anderson,1928,2015
 8182,,,Linda Anderson,0,0
@@ -362,7 +362,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 7883,500332869,Q7610760,Stephen Vitiello,1964,0
 4186,500336487,Q99361077,Joseph Vogel,1911,1995
 1374,500007987,Q7383250,Ruth Vollmer,1903,1982
-7512,,,John von Bergen,1971,0
+7512,,Q133063793,John von Bergen,1971,0
 13764,,,Charline Von Heyl,1960,1960
 1375,500105335,Q2344047,Stephan von Huene,1932,2000
 9037,500042341,Q52156631,Robert von Neumann,1888,1976
@@ -454,7 +454,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 1341,,Q22075425,M. A. Tricca,1880,1969
 12822,,,Trisha Brown Dance Company,1970,0
 1342,500000734,Q828350,Ernest Trova,1927,2009
-14435,,,Kon Trubkovich,1979,0
+14435,,Q133593129,Kon Trubkovich,1979,0
 1343,500023751,Q17125550,David True,1942,0
 1344,500022909,Q565848,Anne Truitt,1921,2004
 1345,,,"Herman Trunk, Jr.",1894,1963
@@ -544,7 +544,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 9689,500092112,Q299662,Carolee Schneemann,1939,2019
 5388,500333970,Q5525893,Gary Schneider,1954,0
 5525,500116249,Q788298,Ira Schneider,1939,0
-7913,,,Karin Schneider,1970,0
+7913,,Q16213046,Karin Schneider,1970,0
 1181,500466578,Q77349627,Max Schnitzler,1903,0
 1183,500004721,Q27881331,Jason Schoener,1919,1997
 3966,,Q63073330,Flora Irwin Schofield,1873,1960
@@ -3521,7 +3521,6 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 18586,500488754,Q63013144,Mira Dancy,1979,0
 18464,,Q3058959,Esther Bubley,1921,1998
 17669,,Q23415354,Samara Golden,1973,0
-,,,Josh On and Futurefarmers,,
 14938,,Q15964396,Rebecca Morris,1969,0
 8111,500114571,Q3432140,Rina Banerjee,1963,0
 7491,500294230,,José Alvarez,1968,0
@@ -4091,6 +4090,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 21694,,,Kang Seung Lee,1978,0
 21706,,Q7351822,Roberto Márquez,1959,0
 14242,,Q21260487,Barbara McCullough,1945,0
+8204,500680363,,Josh On,1972,0
 21660,,,Grace Rosario Perkins,1986,0
 21615,500114751,Q16117062,Cecilia Vicuña,1948,0
 21095,,Q106649780,Franklin Williams,1940,0
