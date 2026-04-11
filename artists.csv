@@ -765,7 +765,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 4688,500047421,Q63241929,Michael Steiner,1945,0
 7734,500022058,Q3418301,Ralph Steiner,1899,1986
 7825,500467997,Q55219826,Mark Steinmetz,1961,0
-1279,,Q7144042,Pat Steir,1938,2026
+1279,500025304,Q7144042,Pat Steir,1938,2026
 1280,500020533,Q375268,Frank Stella,1936,2024
 1281,500032250,Q1347418,Joseph Stella,1877,1946
 3494,500018067,Q20859502,Gary Stephan,1942,0
@@ -848,7 +848,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 13654,500404095,Q55219677,Lucy Raven,1977,0
 3652,500118700,Q872846,Charles Ray,1953,0
 13756,,,Blake Rayne,1969,1969
-7954,500122613,,Luis Recoder,1971,0
+7954,500122613,Q136575044,Luis Recoder,1971,0
 1076,500195493,Q4893580,Bernard Reder,1897,1963
 1077,,Q3048654,Edward Redfield,1869,1965
 8092,500330074,Q1363354,Erwin Redl,1963,0
@@ -1023,7 +1023,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 12992,500489016,Q43135074,Marlo Pascual,1972,2020
 4825,500114735,Q19592294,Jennifer Pastor,1966,0
 3587,500118746,Q21528841,Izhar Patkin,1955,0
-15225,,,Christine Taylor Patten,1940,0
+15225,,Q94637399,Christine Taylor Patten,1940,0
 11191,500202321,Q817643,Ben Patterson,1934,2016
 1001,500402494,Q4664366,Abbott Pattison,1916,1999
 1002,,,David Paul,1945,0
@@ -1047,7 +1047,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 4703,500041571,Q324062,Gilles Peress,1946,0
 14107,500393848,Q57982374,Enoc Perez,1967,0
 1011,,Q131145461,Harley Perkins,1883,1964
-12248,,,Jeffrey Perkins,1941,0
+12248,,Q133627537,Jeffrey Perkins,1941,0
 1012,500334075,Q16104948,Robert Perless,1938,0
 1013,500024499,Q17446201,Bernard Perlin,1918,2014
 13602,500474094,Q63090840,Jenny Perlin,1970,0
@@ -4090,7 +4090,6 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 21694,,,Kang Seung Lee,1978,0
 21706,,Q7351822,Roberto Márquez,1959,0
 14242,,Q21260487,Barbara McCullough,1945,0
-8204,500680363,,Josh On,1972,0
 21660,,,Grace Rosario Perkins,1986,0
 21615,500114751,Q16117062,Cecilia Vicuña,1948,0
 21095,,Q106649780,Franklin Williams,1940,0
