@@ -1686,7 +1686,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 16852,500466422,Q43133497,Lois Long,1918,0
 795,500004035,Q1250139,Robert Longo,1953,0
 796,500082194,Q55219270,Vincent Longo,1923,0
-14957,500102402,,Fred Lonidier,1942,0
+14957,500102402,Q133593807,Fred Lonidier,1942,0
 797,500729961,,Dolia Lorian,1909,1952
 798,500018368,Q6245288,John Loring,1939,0
 11197,,,Los Carpinteros,1992,0
@@ -1762,7 +1762,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 5103,500464323,Q136405716,Jerry Kearns,1943,0
 9009,,Q5423369,Ezra Jack Keats,1916,1983
 11126,500333928,Q24765381,Matt Keegan,1976,0
-11986,,,Keiko Narahashi,1959,0
+11986,,Q133604904,Keiko Narahashi,1959,0
 686,500105419,Q112266042,Steve Keister,1949,0
 687,500030342,Q5724263,Henry G. Keller,1869,1949
 5043,,Q79461681,Martha Keller,1948,0
@@ -1885,7 +1885,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 10222,500333938,Q6790391,Matthew Day Jackson,1974,0
 5041,500381390,Q22086935,Ward Jackson,1928,2004
 14787,,,Abraham Jacobs,1904,1960
-645,500104592,,Harold Jacobs,1932,0
+645,500104592,Q94401614,Harold Jacobs,1932,0
 7947,500114718,Q325399,Ken Jacobs,1933,0
 7555,500261982,Q4909586,Bill Jacobson,1955,0
 9803,500338213,,Michael Jacobson-Hardy,1951,0
@@ -2002,7 +2002,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 3427,500113238,Q28854789,Steven Gianakos,1938,0
 8511,,,Larry Giannetino,1956,2002
 4249,500094623,Q1233831,Ralph Gibson,1939,0
-9213,500122452,,Sandra Gibson,1968,0
+9213,500122452,Q136854918,Sandra Gibson,1968,0
 488,,,Ruth Gikow,1913,1983
 5037,,,Helen Odell Gilbert,1943,2002
 489,500083256,Q5234132,David James Gilhooly,1943,2013
