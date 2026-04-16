@@ -3428,7 +3428,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 16579,500780020,Q7429078,Saya Woolfalk,1979,0
 17885,500335257,Q111598074,Jimmy Wright,1944,0
 17746,500725233,Q19522749,Zarouhie Abdalian,1982,0
-17051,,,Yuji Agematsu,1956,0
+17051,,Q29110238,Yuji Agematsu,1956,0
 17489,,Q55999482,Ivana Bašić,1986,0
 7449,500124345,Q7324110,Richard Benson,1943,2017
 17360,,Q28929801,Nuotama Bodomo,1988,0
@@ -3439,7 +3439,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 18304,500463872,Q77288349,Sam Contis,1982,0
 18076,500084847,Q16012873,Sari Dienes,1898,1992
 18425,500074988,Q1630000,Mike Disfarmer,1884,1959
-17695,,Q63015710,Celeste Dupuy-Spencer,1979,0
+17695,,Q63015710,Celeste Dupuy-Spencer,1979,2026
 18081,,Q16095250,Mary Beth Edelson,1933,2021
 17585,500470236,Q55235680,Cécile B. Evans,1983,0
 17881,,,FlucT,2011,0
@@ -3933,7 +3933,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 8254,,,Eduardo Navas,0,0
 8242,,Q5047648,Cary Peppermint,1970,0
 15352,,,Fang-yu Lin,0,0
-10002,,,Jeremy Hight,0,2022
+10002,,,Jeremy Hight,1969,2022
 10377,,Q16186758,Marc Lafia,1955,0
 8202,500345610,Q6760685,Margot Lovejoy,1930,2019
 8444,,,Christopher Fahey,1983,0
