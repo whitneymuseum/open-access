@@ -2933,7 +2933,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 171,500055913,Q52156756,Theodore Brenson,1893,1959
 1585,500118800,Q57588,Marcel Breuer,1902,1981
 11207,500121241,Q3350134,Olaf Breuning,1970,0
-172,500481073,,Harvey Breverman,1934,0
+172,500481073,Q94539608,Harvey Breverman,1934,0
 173,500043537,Q8005909,William Brice,1921,2008
 7426,500040784,Q15487440,Marilyn Bridges,1948,0
 174,500529613,Q5392818,Ernest Briggs,1923,1984
@@ -3019,7 +3019,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 10248,500346990,Q16215807,Karl Haendel,1976,0
 551,500073617,Q21550236,Carol Haerer,1933,2002
 552,,,Raoul Hague,1903,1995
-553,,Q7342088,Robert Beverly Hale,1901,1985
+553,500054208,Q7342088,Robert Beverly Hale,1901,1985
 554,,Q22002393,Carl Hall,1921,1996
 4423,500108246,,Doug Hall,1944,0
 3561,500115428,Q1642699,Peter Halley,1953,0
@@ -3293,7 +3293,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 18016,,,K. Marsh,0,0
 17175,,Q111598838,Orion Martin,1988,0
 10939,,,Peter Max,0,0
-17359,,,Win McCarthy,1986,0
+17359,,Q133337879,Win McCarthy,1986,0
 18025,,,Melvin Marshall Associates,0,0
 17953,,,Metamorphosis,0,0
 7464,,Q9032823,Miguel Piñero,1946,1988
