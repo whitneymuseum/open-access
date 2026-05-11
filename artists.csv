@@ -1695,7 +1695,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 9963,500034013,Q6660410,Liza Lou,1969,0
 800,500065267,Q6196481,Jim Love,1927,2005
 7356,,,Whitfield Lovell,1959,1959
-801,,Q4738077,Alvin Loving,1935,2005
+801,500102622,Q4738077,Alvin Loving,1935,2005
 9015,,Q56025072,Nat Lowell,1880,1956
 12309,,Q15487717,Walter Lowenfels,1897,1976
 11192,500331372,Q6117237,Jackson Mac Low,1922,2004
@@ -1961,7 +1961,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 471,,Q5040196,Carl Gaertner,1898,1952
 472,500107586,Q1012900,Wanda Gág,1893,1946
 4427,500062753,Q18098196,Charles Gaines,1944,0
-4428,,,Maureen Gallace,1959,0
+4428,,Q19668127,Maureen Gallace,1959,0
 5311,,Q63019122,Cynthia Gallagher,1949,0
 4358,500126100,Q4132681,Ellen Gallagher,1965,0
 473,,,A.E. Gallatin,1882,1952
@@ -2088,7 +2088,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 525,,Q7609353,Stephen Greene,1917,1999
 3448,500089304,Q530755,Timothy Greenfield-Sanders,1952,0
 5102,,,Gregory Green,1943,0
-526,,Q21289362,Kenneth Lee Greenleaf,1945,0
+526,500079413,Q21289362,Kenneth Lee Greenleaf,1945,0
 4760,500116138,Q7313843,Renée Green,1959,0
 8889,500075973,Q21995237,Mark Greenwold,1942,0
 9003,500053558,Q1899160,Marion Greenwood,1909,1970
