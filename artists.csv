@@ -3173,7 +3173,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 3925,500010545,Q19999026,Charles Houghton Howard,1899,1978
 2817,,Q63025554,Loretta Howard,1904,0
 626,,Q28537251,Isabella Howland,1895,1974
-13641,,Q6788820,Matt Hoyt,1975,0
+13641,,,Matt Hoyt,1975,0
 12146,500294134,Q43131745,Alex Hubbard,1975,0
 10699,,,Sedrick Huckaby III,1975,0
 7689,,,Thomas Huck,1971,0
@@ -3471,7 +3471,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 18441,500065392,Q6524303,Leo Valledor,1936,1989
 18194,,Q110155512,Walter Zimmerman,1946,0
 17724,,,Postcommodity,2007,0
-18535,,Q107436373,Guadalupe Maravilla,1976,0
+18535,500785308,Q107436373,Guadalupe Maravilla,1976,0
 13714,500373008,Q16200002,Simone Leigh,1967,0
 19095,500463869,Q77348525,Naotaka Hiro,1972,0
 19092,500344047,Q469449,Ruth Orkin,1921,1985
@@ -3493,7 +3493,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 18457,500779209,Q28860536,Kwame Brathwaite,1938,2023
 18511,,,Ronny Quevedo,1981,0
 17180,500356173,Q27970540,Nina Chanel Abney,1982,0
-18289,,Q28871083,Diamond Stingily,1990,0
+18289,500785030,Q28871083,Diamond Stingily,1990,0
 13533,500352411,Q456923,Barbara Hammer,1939,2019
 18395,500333449,Q21290812,Mary Weatherford,1963,0
 18539,500126900,Q114731319,G. Peter Jemison,1945,0
@@ -4075,9 +4075,11 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 21609,500037077,Q61746879,Mark Ruwedel,1954,0
 21775,,,Frank WANG Yefeng,1984,0
 20701,500487312,Q6778771,Mary Abbott,1921,2019
+21764,,Q84724885,Farah Al Qasimi,1991,0
 21656,500775435,Q23074144,Celia Álvarez Muñoz,0,0
 20289,500034456,Q18389253,Ed Bereal,0,0
 21658,,Q98828670,Louis Carlos Bernal,1941,1993
+21827,500524627,Q6376313,Katherine Bradford,1942,0
 21811,,,Leo Castañeda,1988,0
 21705,500118732,Q16728731,Nancy Dwyer,1954,0
 21070,500783405,Q62050682,Jes Fan,1990,0
@@ -4086,11 +4088,14 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 21765,500333951,Q28871547,Janet Olivia Henry,1947,0
 21610,,Q135393786,Beulah Loomis Hyde,1886,1983
 20331,500450275,Q20870737,Barbara Jones-Hogu,0,0
+21828,,Q3194367,KAWS,1974,0
 21734,500450215,Q121070919,Fidelma Cadmus Kirstein,1906,1991
+20996,,Q42224253,Robert Kobayashi,1925,2015
 21694,,,Kang Seung Lee,1978,0
 21706,,Q7351822,Roberto Márquez,1959,0
 14242,,Q21260487,Barbara McCullough,1945,0
 21660,,,Grace Rosario Perkins,1986,0
+21825,,,Becky Suss,1980,0
 21615,500114751,Q16117062,Cecilia Vicuña,1948,0
 21095,,Q106649780,Franklin Williams,1940,0
 21876,,,Memo Akten & Katie Hofstadter,0,0
