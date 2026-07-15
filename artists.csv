@@ -1702,7 +1702,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 10253,500473758,Q6968683,Nate Lowman,1979,0
 11156,500048708,Q530367,Lee Lozano,1930,1999
 802,500028616,Q6687709,Louis Lozowick,1892,1973
-803,500344283,Q4979285,Bruno Lucchesi,1926,0
+803,500344283,Q4979285,Bruno Lucchesi,1926,2026
 804,500006584,Q21995251,Molly Luce,1896,1986
 805,500087805,Q6780176,Mary Lucier,1944,0
 806,500049579,Q3839797,Luigi Lucioni,1900,1988
@@ -4101,6 +4101,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 21660,,,Grace Rosario Perkins,1986,0
 21817,,,David Pfau,1985,0
 21739,,Q94415599,Anna Ridler,1985,0
+21586,500487571,Q74409658,Mary Sully,1896,1963
 21825,,,Becky Suss,1980,0
 21615,500114751,Q16117062,Cecilia Vicuña,1948,0
 21095,,Q106649780,Franklin Williams,1940,0
