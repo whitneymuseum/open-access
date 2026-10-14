@@ -2804,7 +2804,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 105,500028943,Q1373050,Eugene Berman,1899,1972
 3475,500025293,Q7962743,Wallace Berman,1926,1976
 7328,500333537,Q55218041,Zeke Berman,1951,0
-10290,,,Bernadette Corporation,1994,0
+10290,,Q17017434,Bernadette Corporation,1994,0
 9189,500105646,Q2177580,Ruth Bernhard,1905,2006
 14318,,,Charles Bernstein,0,0
 12171,500033808,Q16105971,Judith Bernstein,1942,0
