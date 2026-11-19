@@ -3628,7 +3628,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 19726,500056036,Q16115301,Maren Hassinger,1947,0
 17809,500782829,Q62056469,Gala Porras-Kim,1984,0
 19645,,Q5735332,Herbert Randall,1936,0
-19015,,,Madeline Hollander,1986,0
+19015,,Q63456672,Madeline Hollander,1986,0
 19043,500451121,Q63117801,Matthew Angelo Harrison,1989,0
 19317,,Q18201823,Rick Lowe,1961,0
 12300,500780981,Q50345522,Torkwase Dyson,1973,0
@@ -3667,7 +3667,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 20108,,Q93600912,Adele Watson,1873,1947
 18923,,Q20936681,Bendor Mark,1912,1995
 20115,,Q47501257,Aria Dean,1993,0
-20111,,,Jana Vander Lee,1945,0
+20111,,Q142106134,Jana Vander Lee,1945,0
 19892,500191212,Q16729684,Claudia Hart,1955,0
 19104,500490793,Q62128026,Troy Michie,1985,0
 19012,500294469,Q675742,Cyprien Gaillard,1980,0
@@ -3863,7 +3863,7 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 8244,500290615,Q19012176,Jennifer McCoy,1968,0
 8434,,Q20687658,Jody Zellen,1961,0
 8854,,,David Crawford,1970,2009
-20784,,,Mimi Ọnụọha,1989,0
+20784,,Q86010342,Mimi Ọnụọha,1989,0
 9727,500114636,Q6387683,Ken Goldberg,1961,0
 8450,500122521,Q5578394,Golan Levin,1972,0
 18614,,,Carla Gannis,1970,0
@@ -4096,9 +4096,11 @@ id,getty_ulan_id,wikidata_id,display_name,begin_date,end_date
 20466,,Q45127559,Miguel Luciano,1972,0
 21706,,Q7351822,Roberto Márquez,1959,0
 14242,,Q21260487,Barbara McCullough,1945,0
+21563,,,Operator,2016,0
 21660,,,Grace Rosario Perkins,1986,0
 21817,,,David Pfau,1985,0
 21739,,Q94415599,Anna Ridler,1985,0
+21782,,,James Schmitz,1975,0
 21586,500487571,Q74409658,Mary Sully,1896,1963
 21825,,,Becky Suss,1980,0
 21626,500330938,Q94519537,Ho Tam,1962,0
